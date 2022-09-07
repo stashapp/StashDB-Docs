@@ -1,1 +1,22 @@
+// Removes padding on site-title so it fits a single line
 @media (min-width: 50rem) { .site-title { padding-right: 0rem; padding-left: 2rem; } }
+
+// Reduces the width of sidebar for larger displays...
+@media (min-width: 66.5rem) {
+.side-bar {
+    width: calc((100% - 1064px) / 2 + 264px);
+    min-width: 264px;
+    max-width: fit-content;
+} }
+// Shifts main body to match...
+@media (min-width: 66.5rem) {
+.main {
+    margin-left: calc( (100% - 100% + 2px) / 2 + 264px );
+    max-width: fit-content;
+} }
+// Adds back padding to either side of main body
+@media (min-width: 50rem) {
+.main-content-wrap {
+    padding-right: 4rem;
+    padding-left: 4rem;
+} }

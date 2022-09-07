@@ -1,0 +1,49 @@
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+source: ./
+title: StashDB Guidelines
+description: A list of guidelines and suggestions for StashDB.org contributors, approved by the community.
+baseurl: "/StashBox-Docs"
+url: "https://stashapp.github.io/"
+permalink: pretty
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+#logo: https://stashapp.cc/images/stash.svg
+
+# Aux links for the upper right navigation
+aux_links:
+  "StashDB.org":
+    - "https://stashdb.org"
+
+# External navigation links
+nav_external_links:
+  - title: StashDB.org
+    url: https://stashdb.org
+  - title: Stash on Discord
+    url: https://discord.com/channels/559159668438728723
+  - title: Stash on GitHub
+    url: https://github.com/stashapp/stash
+  - title: Stash-Box on GitHub
+    url: https://github.com/stashapp/stash-box
+
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Approved by the community driving <a href=\"https://stashdb.org\">StashDB.org</a>"
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: stashdb-dark
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false

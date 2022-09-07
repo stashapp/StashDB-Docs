@@ -1,0 +1,3 @@
+# ignore directories for local testing
+.jekyll-cache/
+_site/

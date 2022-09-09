@@ -11,7 +11,7 @@ permalink: /
 
 This website will serve as a guide and reference document for all contributors to StashDB. It hosts both tips (see the ["Getting Started" sections](#getting-started-pages)) and requirements ([see... everything else](#category-overviews)) to getting your edits approved. As always, if something is missing or doesn't make sense, please ask in either **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
 
-We've moved the guidelines out of the GitHub wiki and it will see no further updates. This website should be considered your primary resource moving forward. It is very much a work in progress at this time so watch for significant updates in the coming days. It is hosted with GitHub Pages, so please direct any suggestions for improving this website to [the repo linked here](https://github.com/stashapp/StashBox-Docs) as a PR or Issue. Feel free to contact **@AdultSun** on Discord with any suggestions as well.
+We've moved the guidelines out of the GitHub wiki and it will see no further updates. This website should be considered your primary resource moving forward. It is very much a work in progress at this time so watch for significant updates in the coming days. It is hosted with GitHub Pages, so please direct any suggestions for improving this website to [the repo linked here](https://github.com/stashapp/StashBox-Docs){:target="_blank"} as a PR or Issue. Feel free to contact **@AdultSun** on Discord with any suggestions as well.
 
 ***
 

@@ -25,7 +25,7 @@ The following sections are general advice and explanations for potentially confu
 ### Check Duplicate Studios
 - **Search using keywords on "Studios" page.**
 
-Before adding a new studio, make sure it doesn't already exist by searching [StashDB's list of studios](https://stashdb.org/studios). Additional search terms will expand the list of results on that page right now, so try to limit yourself to the most unique search term in your studio's name. Also, be aware of our other policies for [adding studios]({{ site.baseurl }}/docs/studios/adding-studios/) that may be relevant.
+Before adding a new studio, make sure it doesn't already exist by searching [StashDB's list of studios](https://stashdb.org/studios){:target="_blank"}. Additional search terms will expand the list of results on that page right now, so try to limit yourself to the most unique search term in your studio's name. Also, be aware of our other policies for [adding studios]({{ site.baseurl }}/docs/studios/adding-studios/) that may be relevant.
 
 ### Studio Edit Comments
 - **Say what you're doing, why you're doing it, and what your sources are.**

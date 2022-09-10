@@ -148,4 +148,4 @@ Not everything can be fixed directly from StashDB's UI. For these exceptions, we
 ### AdBlockers
 - **Turn them off on StashDB, otherwise some images will appear "broken".**
 
-Be sure to disable you browser's ad-blocker for StashDB's domain, or add the domain to the allow/white list. StashDB does not host ads of any kind, but some image URLs will get false-flagged as advertisements and will fail to load. These images will appear to be broken on the webpage.
+Be sure to disable your browser's ad-blocker for StashDB's domain, or add the domain to the allow/white list. StashDB does not host ads of any kind, but some image URLs will get false-flagged as advertisements and will fail to load. These images will appear to be broken on the webpage.

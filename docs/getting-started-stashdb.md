@@ -96,7 +96,7 @@ If you've already used your one update and still need to change something before
 ### Bulk Edits
 - **Big projects that require a large number of edits should be pitched on Discord first for approval.**
 
-Any projects that would affect a large amount of data on StashDB and/or require a high volume of individual edits will need to be approved on Discord first by dropping a question in the **#stashdb-general** channel. If it's in line with the guidelines already established on this Wiki, than a simple "heads up" before starting may be all that is needed from you. More drastic changes may require formal approval as a [guideline proposal](#guideline-proposals) in the **#stashdb-guidelines** channel on Discord. Projects that would add more than a few dozen edits into the queue at a time may need to be broken up into smaller chunks. All of these points apply to both manual submissions and automated submissions.
+Any projects that would affect a large amount of data on StashDB and/or require a high volume of individual edits will need to be approved on Discord first by dropping a question in the **#stashdb-general** channel. If it's in line with the guidelines already established on this website, than a simple "heads up" before starting may be all that is needed from you. More drastic changes may require formal approval as a [guideline proposal](#guideline-proposals) in the **#stashdb-guidelines** channel on Discord. Projects that would add more than a few dozen edits into the queue at a time may need to be broken up into smaller chunks. All of these points apply to both manual submissions and automated submissions.
 
 ### Voting on StashDB
 - **Different voting thresholds apply to destructive vs. non-destructive edits. Voting rights granted automatically after 10 approved submissions.**
@@ -115,7 +115,7 @@ Typically, asking on Discord for votes to approve your own edit is seen as impol
 ### Unconfirmed Guidelines
 - **Still expected to be followed but subject to change pending formal approval.**
 
-Early on, many of this Wiki's sections will have this message at the bottom:
+Early on, many of this website's sections will have this message at the bottom:
 
 _Unconfirmed guideline, subject to change pending formal approval._
 
@@ -124,7 +124,7 @@ All this means is that the language has not been formally approved by the commun
 ### Guideline Proposals
 - **Changes to guidelines require formal approval, so ask about it on Discord first.**
 
-If you would like to make a change or addition to the guidelines in this Wiki, please ask about your idea in our **#ministry-of-truth** channel on [Discord](#joining-our-discord) first. If your suggestion gains traction there, a formal proposal will need to be approved by the community in the **#stashdb-guidelines** channel. Only users with elevated Discord roles will be able to post proposals there.
+If you would like to make a change or addition to the guidelines in this website, please ask about your idea in our **#ministry-of-truth** channel on [Discord](#joining-our-discord) first. If your suggestion gains traction there, a formal proposal will need to be approved by the community in the **#stashdb-guidelines** channel. Only users with elevated Discord roles will be able to post proposals there.
 
 ### Edit Comments
 - **Say what you're doing, why you're doing it, and what your sources are.**
@@ -148,4 +148,4 @@ Not everything can be fixed directly from StashDB's UI. For these exceptions, we
 ### AdBlockers
 - **Turn them off on StashDB, otherwise some images will appear "broken".**
 
-Be sure to disable you browser's ad-blocker for StashDB's domain, or add the domain to the allow/white list. StashDB does not host ads of any kind, but some image URLs will get false-flagged as advertisements and will fail to load. These images will appear to be broken on the webpage.
+Be sure to disable your browser's ad-blocker for StashDB's domain, or add the domain to the allow/white list. StashDB does not host ads of any kind, but some image URLs will get false-flagged as advertisements and will fail to load. These images will appear to be broken on the webpage.

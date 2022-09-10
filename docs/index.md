@@ -73,6 +73,12 @@ The sections below cover broader subjects that are not exclusive to one of those
 ### [Contributing to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#contributing-to-stashdb)
   - **Submitting fingerprints is possible with every account, but any other edit/submission requires permissions granted through Discord.**
 
+### [Submitting Drafts to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#submitting-drafts-to-stashdb)
+  - **Can create/update scenes and performers, but be sure to look on StashDB first and to generate PHashes.**
+
+### [Updating and Cancelling Edits]({{ site.baseurl }}/docs/getting-started-stashdb/#updating-and-cancelling-edits)
+  - **You can update your own pending edit exactly once, otherwise you may need to cancel and resubmit.**
+
 ### [Bulk Edits]({{ site.baseurl }}/docs/getting-started-stashdb/#bulk-edits)
   - **Big projects that require a large number of edits should be pitched on Discord first for approval.**
 

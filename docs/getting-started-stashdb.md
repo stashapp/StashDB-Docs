@@ -52,7 +52,7 @@ The Performer Tagger works similarly. Don't miss the "Batch Add Performers" and 
 
 The [Identify](https://github.com/stashapp/stash/blob/develop/ui/v2.5/src/docs/en/Identify.md){:target="_blank"} task can also pull scene info from StashDB. You can customize your settings beforehand, but this is a hands-off automated function unlike the Tagger views. There's no way to verify a match is correct before its info is saved locally. Because of this lack of manual verification, it does not submit your fingerprints to StashDB during this process. The Scene Tagger is still the only way to do this.
 
-Finally, if you have [edit access](#contributing-to-stashdb), you can add scenes and performers to StashDB by submitting drafts directly from within Stash. From within a scene's details page, click on the three vertical dots in the top right of the details pane and select the "Submit to Stash-Box" option. Clicking the "Submit" button in the resulting dialog box will save a draft to create that scene/performer on StashDB using the information you have saved locally. From the [Drafts](https://stashdb.org/drafts){:target="_blank"} page, you can make any necessary changes, leave an [edit comment](#edit-comments), and finally submit your draft to be [approved](#voting-on-stashdb) just like any other edit.
+Finally, if you have [edit access](#contributing-to-stashdb), you can add scenes, update scenes, and add performers to StashDB by submitting drafts directly from within Stash. See [this section](#submitting-drafts-to-stashdb) for more details on how to submit drafts.
 
 ### What's a PHash?
 - **Perceptual hashes are generated from what a video looks like, allowing for more reliable scene matching with StashDB.**
@@ -72,6 +72,26 @@ As there is no Studio Tagger or studio scraper support, the Scene Tagger view is
 - **Submitting fingerprints is possible with every account, but any other edit/submission requires permissions granted through Discord.**
 
 Every StashDB account is able to submit fingerprints/hashes from within the Scene Tagger view of Stash. This does not require any additional permissions. However, if you would like to add or edit performers, scenes, studios, or tags, you will need to be granted additional privileges. Requesting edit access is not difficult. Detailed instructions can be found pinned to the **#stashdb-invites** channel on [Discord](#joining-our-discord). Please note that you will be expected to be reachable on Discord if you become an active contributor on StashDB. This is because there is no messaging or notification system from within StashDB at this time. If we cannot reach you over Discord, your edit rights may be revoked by an admin after repeated violations of our guidelines.
+
+### Submitting Drafts to StashDB
+- **Can create/update scenes and performers, but be sure to look on StashDB first and to generate PHashes.**
+
+If you'd like to add a scene to StashDB, first make sure you have [PHashes](#whats-a-phash) generated. It isn't turned on by default so make sure you've taken care of this already. Then, use the [Scene Tagger or the StashDB scraper](#using-stashdb) to find any PHash matches. Be careful when selecting your match because your scene may be a [remaster, redistribution, or re-release]({{ site.baseurl }}/docs/scenes/adding-scenes/#remasters-redistributions-and-re-releases). If your particular release isn't already on StashDB, you can add it yourself with a draft submission after your account is granted [edit rights](#contributing-to-stashdb).
+
+From within a scene's details page, click on the three vertical dots in the top right of the details pane and select the "Submit to Stash-Box" option. Clicking the "Submit" button in the resulting dialog box will save a draft to create that scene on StashDB using the information you have saved locally. From the [Drafts](https://stashdb.org/drafts){:target="_blank"} page, you can make any necessary changes, leave an [edit comment](#edit-comments), and finally submit your draft to be [approved](#voting-on-stashdb) just like any other edit.
+
+If you've already matched your scene with an entry on StashDB and have the [StashID](#whats-a-stashid) saved locally, then you can submit a draft to update the scene instead. The process is mostly the same, using the same "Submit to Stash-Box" option except this time it will add or overwrite the info of StashDB's existing entry with the info you have saved locally. Make sure to review your draft first. If you don't want to replace the existing thumbnail just click the "Reset Images" button in the images tab to preserve the old one. Please note that draft updates will not add missing fingerprints, you will need to use the [Scene Tagger](#using-stashdb) for that instead.
+
+The same process can be used for creating and updating performers, just click the big blue "Submit to Stash-Box" button near the top of a performer's details page in Stash.
+
+### Updating and Cancelling Edits
+- **You can update your own pending edit exactly once, otherwise you may need to cancel and resubmit.**
+
+You can update your own pending edits once and only once. The button is a little hidden, you first have to navigate to the page for that individual submission by clicking the heading in the top left of the edit card. It should say something like "Create Scene" or "Modify Performer". You should then see a blue "Update Edit" button at the bottom of the page. You'll then see the edit form in the same state as the current submission. Just remember to leave an additional [edit comment](#edit-comments) explaining your new adjustments before clicking "Submit Edit" again. Remember, you can only update each edit exactly once so try not to miss anything. It saves us all the extra time and effort of making additional corrections.
+
+At this time, updating your edit does not reset previously cast votes. This means any "No" votes cast before the update will remain until a "No" voter comes back to change it. The edit's individual page (click the heading) will also show who's voted "Yes" and "No" already. Many users will check back on an edit after downvoting it to see if their requested changes have been made, but you may also contact them [on Discord](#joining-our-discord) yourself if you're worried about rejection or a long wait time. Their username in StashDB isn't always the same on Discord but a quick search in #stashdb-invites should find their request for edit access. Just be polite and respectful while asking them to flip their vote.
+
+If you've already used your one update and still need to change something before your submission can be approved, unfortunately you'll need to resubmit it. First click the red "Cancel Edit" button at the bottom of the edit's page. It'll be right next to the blue "Update Edit" button. There is no way to revive a cancelled edit so you'll need start from the beginning again to recreate it.
 
 ### Bulk Edits
 - **Big projects that require a large number of edits should be pitched on Discord first for approval.**

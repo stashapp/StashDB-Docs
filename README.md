@@ -1,4 +1,4 @@
 # StashDB-Docs
 
-## This repo is primarily used to host the website for our StashDB guidelines at the link below:
+## This repo is primarily used to host our StashDB guidelines. If you are looking for the old guidelines wiki, all content has been moved to this new website, linked below:
 https://guidelines.stashdb.org/

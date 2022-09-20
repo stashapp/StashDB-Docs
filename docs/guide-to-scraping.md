@@ -29,6 +29,7 @@ The following is our recommended procedure for new Stash users who want to get i
 
 > ![How to generate PHashes on scan](../../assets/images/gen-phashes-on-scan.jpg)
 ^
+<br/><br/>
 
 {:style="counter-reset:none"}
 1.  PHash generation is not turned on by default, so you'll need to generate them manually if you haven't already. This can be done on your entire library on the same Settings --> Tasks page, scroll down to the "Generated Content" heading. Make sure "Perceptual hashes (for deduplication)" is turned on and click the "Generate" button at the top. As long as "Overwrite existing generated files" is turned off, this will only generate missing files and hashes.
@@ -62,13 +63,13 @@ The following is our recommended procedure for new Stash users who want to get i
 {:style="counter-reset:none"}
 1.  First, click the "Scrape All" button. This will use your PHashes to find matching scenes on StashDB for every scene on the current page. The "Scrape by fragment" buttons will do the same thing but just for one scene at a time. Also, you may want to change your Scene Tagger settings with the ⚙ icon next to "Scrape All." You can tell it to Merge (keep all) tags, Overwrite (keep only new) tags, or ignore StashDB's tags entirely (leave box unchecked). If you plan on [contributing to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#contributing-to-stashdb), you should have "Show male performers" turned on to better follow [these guidelines]({{ site.baseurl }}/docs/scenes/scene-performers/#missing-scene-performers).
 
-> ![Running "Scrape All" and "Search"](../../assets/images/scrape-all-and-search.jpg)
+    ![Running "Scrape All" and "Search"](../../assets/images/scrape-all-and-search.jpg)
 <br/><br/><br/>
 
 {:style="counter-reset:none"}
 1.  If your fingerprint search doesn't return a correct result for your scene, you can try searching with the "Query" field using title, performer, release date, or studio. Try to use as little text as possible to find your scene. Otherwise, unnecessary words that do not match StashDB's info may block correct results. If you can find the matching scene on StashDB.org but can't find it using the Scene Tagger, you can use the scene's [StashID]({{ site.baseurl }}/docs/getting-started-stashdb/#whats-a-stashid) as your Tagger query.
 
-> ![How to find a StashID](../../assets/images/find-stashid.jpg)
+    ![How to find a StashID](../../assets/images/find-stashid.jpg)
 <br/><br/><br/>
 
 {:style="counter-reset:none"}

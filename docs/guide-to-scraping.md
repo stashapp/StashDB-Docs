@@ -6,7 +6,7 @@ nav_order: 7
 
 # **Guide to Scraping**
 {: .no_toc }
-The following is our recommended procedure for new Stash users who want to get info for their scenes as quickly, easily, and accurately as possible. Pulling info directly from StashDB is still the best option, but unfortunately this will not always be possible. Alternative methods are also covered for when StashDB doesn't have what you need. Hopefully this guide will reduce the pain and frustration for those who are lost and don't know where to start.
+The following is our recommended procedure for new Stash users who want to get info for their scenes as quickly, easily, and accurately as possible. Pulling info directly from StashDB is still the best option, but unfortunately this will not always be possible. Alternative methods are also covered for when StashDB doesn't have what you need. This is an expanded version of @Scruffy's pinned post in the **#stashdb-general** channel in our [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord). Go there if you'd like something more succinct and direct. Hopefully this guide will reduce the pain and frustration for those who are lost and don't know where to start.
 
 **The following sections are in this particular order for a reason, so please follow this guide from the beginning**.
 
@@ -25,7 +25,7 @@ The following is our recommended procedure for new Stash users who want to get i
 
 ## **Generate PHashes**
 
-1.  Navigate to Settings (⚙ icon in top right) --> Tasks, then find the first heading "Library" in the middle of the page. Make sure "Generate perceptual hashes" is turned on so PHashes will be created automatically each time you run a scan to add new scenes. This will slow down the scanning process, but for most users [it's worth it]({{ site.baseurl }}/docs/getting-started-stashdb/#whats-a-phash). PHashes are the main way to match your scenes with our data on StashDB.
+1.  Navigate to the Settings page (⚙ icon in top right), make sure you're on "Tasks" in the sidebar to the left, then find the first heading "Library" in the middle of the page. Make sure "Generate perceptual hashes" is turned on so PHashes will be created automatically each time you run a scan to add new scenes. This will slow down the scanning process, but for most users [it's worth it]({{ site.baseurl }}/docs/getting-started-stashdb/#whats-a-phash). PHashes are the main way to match your scenes with our data on StashDB.
 
     ![How to generate PHashes on scan](../../assets/images/gen-phashes-on-scan.jpg)
 <br/><br/><br/>

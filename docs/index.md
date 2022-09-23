@@ -59,7 +59,7 @@ The sections below cover broader subjects that are not exclusive to one of those
   - **Necessary for accessing StashDB, click link for details.**
 
 ### [Accessing StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#accessing-stashdb)
-  - **Must create an account, details found on Discord.**
+  - **Must create an account, details found on Discord pinned to #stashdb-invites.**
 
 ### [Using StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#using-stashdb)
   - **Tagger Views are recommended for pulling info from StashDB, Identify task is faster but less accurate.**
@@ -71,7 +71,7 @@ The sections below cover broader subjects that are not exclusive to one of those
   - **Unique ID for entries in StashDB, found at the end of URLs and saved to Stash after a match.**
 
 ### [Contributing to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#contributing-to-stashdb)
-  - **Submitting fingerprints is possible with every account, but any other edit/submission requires permissions granted through Discord.**
+  - **Submitting fingerprints is possible with every account but any other edit/submission requires new permissions, details found on Discord pinned to #stashdb-invites.**
 
 ### [Submitting Drafts to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#submitting-drafts-to-stashdb)
   - **Can create/update scenes and performers, but be sure to look on StashDB first and to generate PHashes.**

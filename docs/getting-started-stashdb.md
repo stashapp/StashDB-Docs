@@ -39,7 +39,7 @@ The Stash Discord server is your best bet for finding help and resources relatin
 [Click here to join our Discord server.](https://discord.gg/2TsNFKt){:target="_blank"}
 
 ### Accessing StashDB
-- **Must create an account, details found on Discord.**
+- **Must create an account, details found on Discord pinned to #stashdb-invites.**
 
 You will need to create a StashDB account to access it from within Stash. Instructions for creating an account and connecting it to Stash can only be found in [our Discord server](#joining-our-discord) at this time. Look for the pinned messages in the **#stashdb-invites** channel for detailed instructions.
 
@@ -69,7 +69,7 @@ A StashID is the unique identifier for an entry on StashDB. It can be found in t
 As there is no Studio Tagger or studio scraper support, the Scene Tagger view is currently the only way to attach a StashID to a locally saved studio. The Tagger will give you several options to choose from when it doesn't find a studio's StashID saved anywhere locally. From left to right, you can create a new studio with the suggested name and StashID (no other details are saved at this time), skip the studio field entirely, or attach the StashID to a studio you've already created. This last option will be selected automatically if a studio's primary name or an alias exactly match the name of the suggested studio on StashDB. Be sure to click the floppy disk icon to save your selected action, creating the new studio or attaching the StashID.
 
 ### Contributing to StashDB
-- **Submitting fingerprints is possible with every account, but any other edit/submission requires permissions granted through Discord.**
+- **Submitting fingerprints is possible with every account but any other edit/submission requires new permissions, details found on Discord pinned to #stashdb-invites.**
 
 Every StashDB account is able to submit fingerprints/hashes from within the Scene Tagger view of Stash. This does not require any additional permissions. However, if you would like to add or edit performers, scenes, studios, or tags, you will need to be granted additional privileges. Requesting edit access is not difficult. Detailed instructions can be found pinned to the **#stashdb-invites** channel on [Discord](#joining-our-discord). Please note that you will be expected to be reachable on Discord if you become an active contributor on StashDB. This is because there is no messaging or notification system from within StashDB at this time. If we cannot reach you over Discord, your edit rights may be revoked by an admin after repeated violations of our guidelines.
 

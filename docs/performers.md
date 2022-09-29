@@ -107,5 +107,8 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 ### [Eligible Performer Aliases](performer-names-and-aliases#eligible-performer-aliases)
 - **Must have be used as an official adult credit, no legal names allowed except when a stage name is also their given name.**
 
+### [JAV Performer Names](performer-names-and-aliases#jav-performer-names)
+- **Western order with Latin characters as primary name, Japanese order and characters as aliases.**
+
 ### [Disambiguation Formatting](performer-names-and-aliases#disambiguation-formatting)
 - **TBD.**

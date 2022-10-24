@@ -96,6 +96,9 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 ### [Preferred Scene Titles](scene-titles#preferred-scene-titles)
   - **Original official scene titles are preferred.**
 
+### [Correcting Scene Titles](scene-titles#correcting-scene-titles)
+  - **Titles should be unaltered from the original studio source in spelling, capitalization, grammar, and punctuation.**
+
 ### [Preferred Title Language](scene-titles#preferred-title-language)
   - **English titles are preferred when provided by official website.**
 

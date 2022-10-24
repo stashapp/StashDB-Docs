@@ -29,6 +29,13 @@ Original scene titles provided by the official studio website are always the pre
 
 _Unconfirmed guideline, subject to change pending formal approval._
 
+### Correcting Scene Titles
+- **Titles should be unaltered from the original studio source in spelling, capitalization, grammar, and punctuation.**
+
+Even when the studio title has obvious grammatical or typographical errors, it should be preserved as it originally appeared. This includes misspellings, incorrect punctuation, odd capitalization, etc. However, exceptions can be made for obvious technical errors introduced by a bad scrape or website update. This includes encoding errors on special characters for example. Exceptions may also be made for scenes from a series/movie that do not specify a scene/episode number. Typically, we add this in the format `Title - Scene 1` but there is no officially required formatting for scene numbers at this time. We also do not alter the official studio's formatting when they do specify a scene in their title.
+
+_Unconfirmed guideline, subject to change pending formal approval._
+
 ### Preferred Title Language
 - **English titles are preferred when provided by official website.**
 

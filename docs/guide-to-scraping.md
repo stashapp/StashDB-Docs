@@ -51,11 +51,12 @@ If you haven't set up StashDB in your Stash settings yet, now's the time to do i
 
 *If all of the codes are used/expired, you can ping **@Infinite** in **#stashdb-invites** and politely ask to refresh them. A few other elevated users can also generate an invite code for you.*
 
-2.  Once you're logged in to StashDB, click on your username at the top next to **Logged in as**.
-3.  Copy your unique **API key**.
-4.  Go to the **Settings** page in Stash ([http://localhost:9999/settings](http://localhost:9999/settings) by default), click **Metadata Providers** on the left side and find **Stash-box Endpoints** at the top.
-5.  Click **Add** and fill out the form that pops up: paste in your API key from step #3, enter `stashdb.org` (or anything else you'd like) for **Name**, and enter `https://stashdb.org/graphql` as the **GraphQL endpoint**
-6.  Click **Test Credentials** to make sure you've entered everything correctly, then click **Confirm**.
+{:style="counter-reset:none"}
+1.  Once you're logged in to StashDB, click on your username at the top next to **Logged in as**.
+1.  Copy your unique **API key**.
+1.  Go to the **Settings** page in Stash ([http://localhost:9999/settings](http://localhost:9999/settings) by default), click **Metadata Providers** on the left side and find **Stash-box Endpoints** at the top.
+1.  Click **Add** and fill out the form that pops up: paste in your API key from step #3, enter `stashdb.org` (or anything else you'd like) for **Name**, and enter `https://stashdb.org/graphql` as the **GraphQL endpoint**
+1.  Click **Test Credentials** to make sure you've entered everything correctly, then click **Confirm**.
 
 <br/>
 

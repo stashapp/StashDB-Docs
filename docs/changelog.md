@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Changelog"
+title: "Changelog: StashDB-Docs"
 nav_order: 99
 ---
 
-# **Changelog**
+# **Changelog: StashDB-Docs**
 {: .no_toc }
 The following is a rundown of major changes and updates to the guidelines. Minor fixes (spelling, grammar, formatting bugs, etc.) will likely not be included here but may be found in the [list of commits for this repo](https://github.com/stashapp/StashDB-Docs/commits/main) instead.
 

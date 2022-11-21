@@ -105,7 +105,7 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 - **Prefer unique names over commonly used aliases, but otherwise no hard rules only suggestions.**
 
 ### [Eligible Performer Aliases](performer-names-and-aliases#eligible-performer-aliases)
-- **Must have be used as an official adult credit, no legal names allowed except when a stage name is also their given name.**
+- **Must be an official adult credit, no legal names allowed except when a stage name is also their given name.**
 
 ### [JAV Performer Names](performer-names-and-aliases#jav-performer-names)
 - **Western order with simplified Latin characters as default primary name, all other spellings as aliases.**

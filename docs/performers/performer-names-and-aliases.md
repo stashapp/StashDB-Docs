@@ -32,7 +32,7 @@ Also be aware that names are only eligible to be primary names if they've been u
 _Unconfirmed guideline, subject to change pending formal approval._
 
 ### Eligible Performer Aliases
-- **Must have be used as an official adult credit, no legal names allowed except when a stage name is also their given name.**
+- **Must be an official adult credit, no legal names allowed except when a stage name is also their given name.**
 
 Performer aliases must be names that have been used as official credits in an adult video performance. They do not have to be names used as performance aliases in a scene already listed on StashDB. This means that names that have been used professionally in non-adult mainstream performances, listed in credits or bylines as a writer or author, used on public social media accounts, or listed in news articles are not eligible to be listed on StashDB unless they've also been used as an official adult credit.
 

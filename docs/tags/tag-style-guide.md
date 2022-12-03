@@ -23,8 +23,8 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 ***
 
 ### Capitalizing Names and Aliases
-- **TBD.**
+- **Title casing for words and phrases, all-caps with no punctuation for acronyms.**
 
-Placeholder description, ask on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
+Tag names and aliases should follow [proper title-casing](https://capitalizemytitle.com/style/AP/) for individual words and phrases. This means most words will only have the first letter capitalized but small words in the middle of a phrase (prepositions, conjunctions, articles, etc.) should be left completely lower case. For example, `Missing or Removed` would be correct. `Missing Or Removed`, `missing or removed`, and `MISSING OR REMOVED` would be incorrect.
 
-_Unconfirmed guideline, subject to change pending formal approval._
+However, every letters should be capitalized for acronyms. There should also be no punctuation between each letter. For example, `BDSM` would be correct. `Bdsm`, `bdsm`, and `B.D.S.M.` would be incorrect.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Merging Tags"
-nav_order: 5
+nav_order: 4
 parent: Tags
 ---
 

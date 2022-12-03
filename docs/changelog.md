@@ -24,15 +24,13 @@ Everything here is listed in reverse chronological order with the most recent up
 ## 2022
 
 ### December 2022
-- First change of December, by [@AdultSun] in [PR #13] (*Just a placeholder as an example of future formatting.*)
-
-[PR #13]: https://github.com/stashapp/StashDB-Docs/pull/13
-
-### November 2022
 - Creates changelog, by [@AdultSun] in [PR #12]
-- Updates "Guide to Scraping" to include connecting to Stash, by [@DogmaDragon] and [@AdultSun] in [PR #3]
 
 [PR #12]: https://github.com/stashapp/StashDB-Docs/pull/12
+
+### November 2022
+- Updates "Guide to Scraping" to include connecting to Stash, by [@DogmaDragon] and [@AdultSun] in [PR #3]
+
 [PR #3]: https://github.com/stashapp/StashDB-Docs/pull/3
 
 [@AdultSun]: https://github.com/stashapp/StashDB-Docs/commits?author=AdultSun

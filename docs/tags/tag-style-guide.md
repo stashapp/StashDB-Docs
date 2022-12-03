@@ -22,7 +22,7 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 
 ***
 
-### Capitalizing Names and Aliases
+### Capitalizing Tag Names and Aliases
 - **Title casing for words and phrases, all-caps with no punctuation for acronyms.**
 
 Tag names and aliases should follow [proper title-casing](https://capitalizemytitle.com/style/AP/) for individual words and phrases. This means most words will only have the first letter capitalized but small words in the middle of a phrase (prepositions, conjunctions, articles, etc.) should be left completely lower case. For example, `Missing or Removed` would be correct. `Missing Or Removed`, `missing or removed`, and `MISSING OR REMOVED` would be incorrect.

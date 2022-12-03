@@ -109,5 +109,5 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 ## **[Tag Style Guide](tag-style-guide)**
 The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
-### [Capitalizing Names and Aliases](tag-style-guide#capitalizing-names-and-aliases)
+### [Capitalizing Tag Names and Aliases](tag-style-guide#capitalizing-tag-names-and-aliases)
   - **Title casing for words and phrases, all-caps with no punctuation for acronyms.**

@@ -24,8 +24,10 @@ Everything here is listed in reverse chronological order with the most recent up
 ## 2022
 
 ### December 2022
+- Add "Capitalizing Tag Names and Aliases", by [@AdultSun] in [PR #13] and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1038607732116303943)
 - Creates changelog, by [@AdultSun] in [PR #12]
 
+[PR #13]: https://github.com/stashapp/StashDB-Docs/pull/13
 [PR #12]: https://github.com/stashapp/StashDB-Docs/pull/12
 
 ### November 2022

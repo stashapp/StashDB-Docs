@@ -40,6 +40,13 @@ This also means that outside of the rare occasion of someone regularly using the
 
 _Unconfirmed guideline, subject to change pending formal approval._
 
+### Diacritics in Performer Names
+- **Diacritics should be included in the primary name with the name without diacritics being added as an alias.**
+
+Diacritics are the glyphs added on the letters. Most popular ones are acute ( ◌́ ) and grave ( ◌̀ ), but all diacritics should be use if it is part of the performer name. Example [Vitória Vonteese](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326).
+
+The only exception is [JAV Performer Names](#jav-performer-names). 
+
 ### JAV Performer Names
 - **Western order with simplified Latin characters as default primary name, all other spellings as aliases.**
 

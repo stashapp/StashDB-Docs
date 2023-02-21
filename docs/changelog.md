@@ -21,6 +21,13 @@ Everything here is listed in reverse chronological order with the most recent up
 
 ***
 
+## 2023
+
+### February
+- Add "Diacritics in Performer Names" by [@DogmaDragon] in [PR #41] and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1076296943996780565)
+
+[PR #41]: https://github.com/stashapp/StashDB-Docs/pull/41
+
 ## 2022
 
 ### December 2022

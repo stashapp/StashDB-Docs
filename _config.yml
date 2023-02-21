@@ -50,6 +50,20 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: stashdb-dark
 
+callouts_level: loud
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow 
+  new:
+    title: New
+    color: green
+  important:
+    color: blue
+
 kramdown:
   syntax_highlighter_opts:
     block:

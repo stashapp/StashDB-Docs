@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Studios
-nav_order: 5
+title: Drafts
+nav_order: 8
 has_children: true
 has_toc: false
 ---
 
-# Studios
+# Drafts

@@ -41,11 +41,13 @@ This also means that outside of the rare occasion of someone regularly using the
 _Unconfirmed guideline, subject to change pending formal approval._
 
 ### Diacritics in Performer Names
-- **Diacritics should be included in the primary name with the name without diacritics being added as an alias.**
+- **Diacritics can be included in the primary name but the name without diacritics must be included as an alias.**
 
-Diacritics are the glyphs added on the letters. Most popular ones are acute ( ◌́ ) and grave ( ◌̀ ), but all diacritics should be use if it is part of the performer name. Example [Vitória Vonteese](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326).
+Diacritics are the marks added above or below a letter to indicate a difference in pronunciation. Two of the most popular ones are acute ( ◌́ ) and grave ( ◌̀ ). The primary name of a performer may include any of these diacritical marks but the same name without any diacritics will need to be included as an alias. This makes it easier to find them in search results. For example, [Vitória Vonteese](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326) has a diacritic in her primary name but also has `Vitoria Vonteese` (no diacritic) as an alias.
 
-The only exception is [JAV Performer Names](#jav-performer-names). 
+Also, please be aware that the same considerations explained in "[Preferred Performer Names](#preferred-performer-names)" still apply here. A name without diacritics may still be preferrable as the primary if it's by far the most commonly used spelling for that performer, for example.
+
+[JAV Performer Names](#jav-performer-names) are a notable exception to all of the above. Please see that page for more details.
 
 ### JAV Performer Names
 - **Western order with simplified Latin characters as default primary name, all other spellings as aliases.**

@@ -41,11 +41,11 @@ This also means that outside of the rare occasion of someone regularly using the
 _Unconfirmed guideline, subject to change pending formal approval._
 
 ### Diacritics in Performer Names
-- **Diacritics can be included in the primary name but the name without diacritics must be included as an alias.**
+- **Diacritics are allowed in the primary name but the name without diacritics must be included as an alias.**
 
-Diacritics are the marks added above or below a letter to indicate a difference in pronunciation. Two of the most popular ones are acute ( ◌́ ) and grave ( ◌̀ ). The primary name of a performer may include any of these diacritical marks but the same name without any diacritics will need to be included as an alias. This makes it easier to find them in search results. For example, [Vitória Vonteese](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326) has a diacritic in her primary name but also has `Vitoria Vonteese` (no diacritic) as an alias.
+Diacritics are the marks added above or below a letter to indicate a difference in pronunciation. Two common examples are the acute ( ◌́ ) and the grave ( ◌̀ ). The primary name of a performer may include any of these diacritical marks but the same name without any diacritics will need to be included as an alias. This makes it easier to find them in search results. For example, [Vitória Vonteese](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326) has a diacritic in her primary name but also has `Vitoria Vonteese` (no diacritic) as an alias.
 
-Also, please be aware that the same considerations explained in "[Preferred Performer Names](#preferred-performer-names)" still apply here. A name without diacritics may still be preferrable as the primary if it's by far the most commonly used spelling for that performer, for example.
+Also, please be aware that the same considerations explained in [Preferred Performer Names](#preferred-performer-names) still apply here. A name without diacritical marks may still be preferrable as the primary if it's by far the most commonly used spelling for that performer, for example.
 
 [JAV Performer Names](#jav-performer-names) are a notable exception to all of the above. Please see that page for more details.
 

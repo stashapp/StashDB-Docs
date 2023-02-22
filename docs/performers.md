@@ -108,7 +108,7 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 - **Must be an official adult credit, no legal names allowed except when a stage name is also their given name.**
 
 ### [Diacritics in Performer Names](performer-names-and-aliases#diacritics-in-performer-names)
-- **Diacritics can be included in the primary name but the name without diacritics must be included as an alias.**
+- **Diacritics are allowed in the primary name but the name without diacritics must be included as an alias.**
 
 ### [JAV Performer Names](performer-names-and-aliases#jav-performer-names)
 - **Western order with simplified Latin characters as default primary name, all other spellings as aliases.**

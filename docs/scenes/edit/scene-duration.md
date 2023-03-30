@@ -7,4 +7,4 @@ parent: Edit Scenes
 grand_parent: Scenes
 ---
 
-# Duration
+# Scene Duration

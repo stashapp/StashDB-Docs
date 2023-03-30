@@ -2,7 +2,7 @@
 layout: default
 title: "JAV Names"
 nav_order: 2
-parent: Performer Name
+parent: Name
 grand_parent: Edit Performers
 ---
 

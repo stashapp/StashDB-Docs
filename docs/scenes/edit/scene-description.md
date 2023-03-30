@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scene Description"
+title: "Description"
 nav_order: 8
 has_children: true
 parent: Edit Scenes

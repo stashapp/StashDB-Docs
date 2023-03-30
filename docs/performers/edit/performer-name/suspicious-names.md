@@ -2,7 +2,7 @@
 layout: default
 title: "Suspicious Names"
 nav_order: 3
-parent: Performer Name
+parent: Name
 grand_parent: Edit Performers
 ---
 

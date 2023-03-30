@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Getting Started: Scenes"
+title: "Scenes"
 nav_order: 3
 has_children: true
 has_toc: true

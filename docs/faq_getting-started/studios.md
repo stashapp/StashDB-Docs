@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Getting Started: Studios"
+title: "Studios"
 nav_order: 4
 has_children: true
 has_toc: true

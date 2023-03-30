@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scene Studio"
+title: "Studio"
 nav_order: 6
 has_children: true
 parent: Edit Scenes

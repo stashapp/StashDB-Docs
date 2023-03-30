@@ -2,7 +2,7 @@
 layout: default
 title: Ambiguous Performers
 nav_order: 1
-parent: 'Getting Started: Performers'
+parent: 'Performers'
 grand_parent: FAQ / Getting Started
 ---
 

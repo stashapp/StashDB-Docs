@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Getting Started: Tags"
+title: "Tags"
 nav_order: 5
 has_children: true
 has_toc: true

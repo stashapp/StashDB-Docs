@@ -2,7 +2,7 @@
 layout: default
 title: "Suspicious Aliases"
 nav_order: 2
-parent: Performer Aliases
+parent: Aliases
 grand_parent: Edit Performers
 ---
 

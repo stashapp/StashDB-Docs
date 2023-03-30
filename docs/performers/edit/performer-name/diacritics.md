@@ -2,7 +2,7 @@
 layout: default
 title: "Diacritics in Names"
 nav_order: 4
-parent: Performer Name
+parent: Name
 grand_parent: Edit Performers
 ---
 

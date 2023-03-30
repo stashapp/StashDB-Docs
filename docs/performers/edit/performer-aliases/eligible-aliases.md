@@ -2,7 +2,7 @@
 layout: default
 title: "Eligible Aliases"
 nav_order: 1
-parent: Performer Aliases
+parent: Aliases
 grand_parent: Edit Performers
 ---
 

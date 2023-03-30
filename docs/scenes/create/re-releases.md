@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Multi-Performer Images"
-nav_order: 5
-has_children: false
-parent: Performer Images
-grand_parent: Edit Performers
+title: Re-Releases
+nav_order: 2
+parent: Create Scenes
+grand_parent: Scenes
 ---
 
-# Multi-Performer Images
+# Remasters, Redistributions, and Re-Releases
 
 {: .important }
 **One Sentence Summary.**

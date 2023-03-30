@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Studio Images"
+title: "Images"
 nav_order: 4
 has_children: true
 parent: Edit Studios

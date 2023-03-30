@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scene Date"
+title: "Date"
 nav_order: 2
 has_children: true
 parent: Edit Scenes

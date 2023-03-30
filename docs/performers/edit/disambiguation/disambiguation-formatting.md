@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Disambiguation Formatting"
+title: "Formatting"
 nav_order: 1
 parent: Disambiguation
 grand_parent: Edit Performers

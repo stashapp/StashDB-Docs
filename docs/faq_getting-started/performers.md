@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Getting Started: Performers"
+title: "Performers"
 nav_order: 2
 has_children: true
 has_toc: true

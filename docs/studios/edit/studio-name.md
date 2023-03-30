@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Studio Name"
+title: "Name"
 nav_order: 1
 has_children: true
 parent: Edit Studios

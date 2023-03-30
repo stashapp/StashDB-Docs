@@ -2,7 +2,7 @@
 layout: default
 title: "Preferred Names"
 nav_order: 1
-parent: Performer Name
+parent: Name
 grand_parent: Edit Performers
 ---
 

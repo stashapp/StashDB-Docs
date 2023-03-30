@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scene Tags"
+title: "Tags"
 nav_order: 10
 has_children: true
 parent: Edit Scenes

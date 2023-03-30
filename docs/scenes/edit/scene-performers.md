@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scene Performers"
+title: "Performers"
 nav_order: 4
 has_children: true
 parent: Edit Scenes

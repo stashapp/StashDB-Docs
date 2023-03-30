@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Performer Eligibility
+title: Eligibility
 nav_order: 1
 parent: Create Performers
 grand_parent: Performers

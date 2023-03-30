@@ -2,21 +2,15 @@
 layout: default
 title: What is StashDB?
 nav_order: 1
-parent: 'Getting Started: StashDB'
+parent: 'StashDB'
 grand_parent: FAQ / Getting Started
 ---
 
 # What is StashDB?
 
 {: .important }
-**One Sentence Summary.**
+**Our shared database of scene, performer, and studio metadata. Does not host video files or unofficial download links.**
 
 ---
 
-Long form description.
-
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+StashDB is our shared public instance of the Stash-Box software. It hosts information about a wide variety of scenes, studios, and performers that can be easily pulled into your own installation of Stash. It does not host any video files or link to any unofficial downloads. Very few users will have reason to host or install a Stash-Box instance themselves, so if you're confused by the terminology just focus on [linking StashDB to your local installation of Stash]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/). Detailed instructions for connecting to StashDB can be found in the pinned messages of our **#stashdb-invites** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/).

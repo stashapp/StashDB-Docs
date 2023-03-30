@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scene Images"
+title: "Images"
 nav_order: 12
 has_children: true
 parent: Edit Scenes

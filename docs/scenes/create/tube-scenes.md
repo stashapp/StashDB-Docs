@@ -1,22 +1,19 @@
 ---
 layout: default
-title: Tube Sites
+title: PornHub
 nav_order: 3
 parent: Create Scenes
 grand_parent: Scenes
 ---
 
-# Tube Sites
+# PornHub Scenes
 
 {: .important }
-**One Sentence Summary.**
+**Must be original scenes made and uploaded by verified creators.**
 
 ---
 
-Long form description.
+Scenes from PornHub must be original content uploaded by verified creators. Scenes uploaded by a third party are not allowed. Trailers and abridged scenes from major studios are not allowed. Fan-created content like compilations or PMVs are not allowed. Adding scenes with simply "PornHub" as the studio is not allowed. Scenes must use a [sub-studio for the content creator]({{ site.baseurl }}/docs/studios/create/amateur-studios/) instead.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

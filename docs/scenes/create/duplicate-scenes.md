@@ -9,14 +9,11 @@ grand_parent: Scenes
 # Duplicate Scenes
 
 {: .important }
-**One Sentence Summary.**
+**No exact duplicates, prefer to keep entries with more fingerprints.**
 
 ---
 
-Long form description.
+Exact duplicates should always be rejected or removed. Exceptions may be made for [remasters, rereleases, and redistributions]({{ site.baseurl }}/docs/scenes/create/re-releases/) in some cases. When deleting duplicate scenes, our preference is to keep the entry with the higher number of unique fingerprints and/or fingerprint submissions.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

@@ -13,12 +13,6 @@ grand_parent: FAQ / Getting Started
 
 ---
 
-A StashID is the unique identifier for an entry on StashDB. It can be found in the URL of a scene/performer/studio entry as the string of seemingly random numbers and letters at the end. StashIDs can be saved to your own scenes, performers, and studios in Stash when using the [Tagger view or Identify function](#using-stashdb) as well as a Stash-Box scraper. This links your local entries in Stash to their match on StashDB for future reference and scrapes.
+A StashID is the unique identifier for an entry on StashDB. It can be found in the URL of a scene/performer/studio entry as the string of seemingly random numbers and letters at the end. StashIDs can be saved to your own scenes, performers, and studios in Stash when using the [Tagger view or Identify function]({{ site.baseurl }}/docs/faq_getting-started/stashdb/using-stashdb/) as well as a Stash-Box scraper. This links your local entries in Stash to their match on StashDB for future reference and scrapes.
 
 As there is no Studio Tagger or studio scraper support, the Scene Tagger view is currently the only way to attach a StashID to a locally saved studio. The Tagger will give you several options to choose from when it doesn't find a studio's StashID saved anywhere locally. From left to right, you can create a new studio with the suggested name and StashID (no other details are saved at this time), skip the studio field entirely, or attach the StashID to a studio you've already created. This last option will be selected automatically if a studio's primary name or an alias exactly match the name of the suggested studio on StashDB. Be sure to click the floppy disk icon to save your selected action, creating the new studio or attaching the StashID.
-
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).

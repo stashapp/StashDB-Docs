@@ -9,14 +9,8 @@ grand_parent: Edit Scenes
 # Preferred Title Language
 
 {: .important }
-**One Sentence Summary.**
+**English titles are preferred when provided by official website.**
 
 ---
 
-Long form description.
-
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+Some studios offer multiple language options on their official website. In these situations, the English versions of scene titles and descriptions are preferred for StashDB. If there is no official English translation available, the next best option is the original language.

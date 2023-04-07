@@ -9,14 +9,11 @@ grand_parent: Edit Scenes
 # Ambiguous Performers
 
 {: .important }
-**One Sentence Summary.**
+**Must avoid ambiguous performer entries, creating new disambiguated entries when necessary.**
 
 ---
 
-Long form description.
+[Ambiguous performers]({{ site.baseurl }}/docs/faq_getting-started/performers/ambiguous-performers/) should not be added to a scene entry. You should always try to find a properly disambiguated performer entry for your scene. If no entry exists yet for your performer, you will need to create one.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

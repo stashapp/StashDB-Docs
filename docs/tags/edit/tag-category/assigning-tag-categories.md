@@ -13,10 +13,4 @@ grand_parent: Edit Tags
 
 ---
 
-If the tag you're editing doesn't have a category yet, try to assign one in the same edit. This shows that somebody has handled a tag, [marking it as "sorted"](#sorted-vs-unsorted-tags) to some extent. Categories are easy to correct afterwards, so don't worry about guessing. Also feel free to ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord) for clarification.
-
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+If the tag you're editing doesn't have a category yet, try to assign one in the same edit. This shows that somebody has handled a tag, [marking it as "sorted"]({{ site.baseurl }}/docs/faq_getting-started/tags/sorted-vs-unsorted-tags/) to some extent. Categories are easy to correct afterwards, so don't worry about guessing. Also feel free to ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/) for clarification.

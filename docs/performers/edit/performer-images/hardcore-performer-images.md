@@ -14,7 +14,7 @@ grand_parent: Edit Performers
 
 ---
 
-Images that contain explicit sex acts should be removed as “low quality” if better alternative images are available for the performer. Sometimes, these images can be cropped to remove hardcore content with your choice of image editing software.
+Images that contain explicit sex acts should be removed as "low quality" if better alternative images are available for the performer. Sometimes, these images can be cropped to remove hardcore content with your choice of image editing software.
 
 {: .note }
 Unconfirmed guideline, subject to change pending formal approval.

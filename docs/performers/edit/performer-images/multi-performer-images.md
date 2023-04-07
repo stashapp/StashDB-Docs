@@ -14,7 +14,7 @@ grand_parent: Edit Performers
 
 ---
 
-Images that contain multiple people should be removed as “low quality” if better alternative images are available for the performer. Sometimes, these images can be cropped to remove unwanted subjects with your choice of image editing software.
+Images that contain multiple people should be removed as "low quality" if better alternative images are available for the performer. Sometimes, these images can be cropped to remove unwanted subjects with your choice of image editing software.
 
 {: .note }
 Unconfirmed guideline, subject to change pending formal approval.

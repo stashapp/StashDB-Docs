@@ -9,14 +9,11 @@ grand_parent: Edit Scenes
 # Preferred Scene Dates
 
 {: .important }
-**One Sentence Summary.**
+**Earliest known release date, or closest approximate date.**
 
 ---
 
-Long form description.
+The earliest known release date for a scene is always the preferred scene date. Production dates should not be used for this field. For [remasters/redistributions/re-releases]({{ site.baseurl }}/docs/scenes/create/re-releases/), the earliest release date refers to that particular release and not the original scene. Approximate dates may be accepted if no exact release date can be sourced or verified. Stash-Box will allow you to omit the day or month in these situations.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

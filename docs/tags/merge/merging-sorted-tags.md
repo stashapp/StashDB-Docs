@@ -9,14 +9,11 @@ grand_parent: Tags
 # Merging Sorted Tags
 
 {: .important }
-**One Sentence Summary.**
+**"Sorted" tags (already has category/description) shouldn't be considered eligible to be deleted or merged. Ask on Discord first if you think you've found an exception.**
 
 ---
 
-Long form description.
+If a tag has already been assigned a description, then it has already been organized by another editor. These can be considered ["sorted" tags]({{ site.baseurl }}/docs/faq_getting-started/tags/sorted-vs-unsorted-tags/). It could be used as a merge target, but shouldn't be considered eligible to be deleted or merged into something else at this time. If you feel you've found an exception to this, please ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/) first.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

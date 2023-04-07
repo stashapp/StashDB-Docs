@@ -39,7 +39,7 @@ grand_parent: Performers
 ### [Image Size](performer-image-size)
 
 {: .important }
-**Images greater than 1280px will be automatically downscaled, “low quality” images may be rejected or removed.** *[See more...](performer-image-size)*
+**Images greater than 1280px will be automatically downscaled, "low quality" images may be rejected or removed.** *[See more...](performer-image-size)*
 
 
 ### [Placeholders](performer-placeholder-images)
@@ -75,4 +75,4 @@ grand_parent: Performers
 ### [Image Selection](performer-image-selection)
 
 {: .important }
-**Variety is encouraged, allowing for different user preferences and easier identification from throughout a performer’s career.** *[See more...](performer-image-selection)*
+**Variety is encouraged, allowing for different user preferences and easier identification from throughout a performer's career.** *[See more...](performer-image-selection)*

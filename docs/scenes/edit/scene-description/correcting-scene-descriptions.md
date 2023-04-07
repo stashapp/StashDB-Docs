@@ -9,14 +9,11 @@ grand_parent: Edit Scenes
 # Correcting Scene Descriptions
 
 {: .important }
-**One Sentence Summary.**
+**Descriptions should be unaltered from the original studio source in spelling, capitalization, grammar, and punctuation.**
 
 ---
 
-Long form description.
+Even when the studio description has obvious grammatical or typographical errors, it should be preserved as it originally appeared. This includes misspellings, incorrect punctuation, odd capitalization, etc. However, exceptions can be made for obvious technical errors introduced by a bad scrape or website update. This includes encoding errors on special characters, obvious glitches with whitespace, visible HTML tags instead of line breaks, etc.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

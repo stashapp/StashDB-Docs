@@ -3,7 +3,7 @@ layout: default
 title: "Merge Performers"
 nav_order: 3
 has_children: true
-has_toc: true
+has_toc: false
 parent: Performers
 ---
 
@@ -32,9 +32,9 @@ parent: Performers
 ### [Performer Merge Targets](performer-merge-targets)
 
 {: .important }
-**Typically, click “Merge” on the entry with the performer name you’d like to keep.** *[See more...](performer-merge-targets)*
+**Typically, click "Merge" on the entry with the performer name you'd like to keep.** *[See more...](performer-merge-targets)*
 
 ### [Set Performance Aliases](set-performer-aliases)
 
 {: .important }
-**Usually leave box checked unless the merged name is identical to the merge target’s name.** *[See more...](set-performer-aliases)*
+**Usually leave box checked unless the merged name is identical to the merge target's name.** *[See more...](set-performer-aliases)*

@@ -3,7 +3,7 @@ layout: default
 title: "Delete Performers"
 nav_order: 4
 has_children: true
-has_toc: true
+has_toc: false
 parent: Performers
 ---
 

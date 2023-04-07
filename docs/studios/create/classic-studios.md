@@ -9,14 +9,11 @@ grand_parent: Studios
 # Classic Studios
 
 {: .important }
-**One Sentence Summary.**
+**Currently, only scenes available digitally from an official studio website or network are allowed, not including digital marketplaces.**
 
 ---
 
-Long form description.
+Older studios are currently allowed on StashDB only in limited circumstances. Studios and scenes that pre-date digital distribution where content is only available as rips of home video releases or third party resellers are not allowed on StashDB at this time. This includes content that can only be sourced from marketplaces that sell digital scenes and movies like Adult DVD Empire or Hot Movies. At this time, all professional scenes and studios must be available digitally from an official studio website or network. The reasoning for this is due to a desire to move slowly with this content, so it may change in the future. Please also see our policy on [full movie scene entries]({{ site.baseurl }}/docs/scenes/create/full-dvd-entries/).
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

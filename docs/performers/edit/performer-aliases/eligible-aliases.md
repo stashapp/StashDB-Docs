@@ -18,7 +18,7 @@ Performer aliases must be names that have been used as official credits in an ad
 {: .warning }
 **Legal names and birth names are not allowed anywhere on StashDB**.
 
-Other names that **cannot** be used as aliases unless they’ve also been used as an official adult credit:
+Other names that **cannot** be used as aliases unless they've also been used as an official adult credit:
 
 1. Professional credits from non-adult mainstream performances
 2. Professional credits or bylines as a writer or author

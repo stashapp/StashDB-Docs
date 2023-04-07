@@ -14,4 +14,4 @@ grand_parent: Edit Performers
 
 ---
 
-Images that contain explicit or extreme BDSM practices should be removed as “low quality” if better alternative images are available for the performer. Images could qualify for removal if they show severe contortions or possible injury to the body. Sometimes, these images can be cropped to remove explicit content with your choice of image editing software.
+Images that contain explicit or extreme BDSM practices should be removed as "low quality" if better alternative images are available for the performer. Images could qualify for removal if they show severe contortions or possible injury to the body. Sometimes, these images can be cropped to remove explicit content with your choice of image editing software.

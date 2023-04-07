@@ -9,14 +9,11 @@ grand_parent: Edit Scenes
 # Correcting Scene Titles
 
 {: .important }
-**One Sentence Summary.**
+**Titles should be unaltered from the original studio source in spelling, capitalization, grammar, and punctuation.**
 
 ---
 
-Long form description.
+Even when the studio title has obvious grammatical or typographical errors, it should be preserved as it originally appeared. This includes misspellings, incorrect punctuation, odd capitalization, etc. However, exceptions can be made for obvious technical errors introduced by a bad scrape or website update. This includes encoding errors on special characters for example. Exceptions may also be made for scenes from a series/movie that do not specify a scene/episode number. Typically, we add this in the format `Title - Scene 1` but there is no officially required formatting for scene numbers at this time. We also do not alter the official studio's formatting when they do specify a scene in their title.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

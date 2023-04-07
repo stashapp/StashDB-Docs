@@ -9,14 +9,8 @@ grand_parent: Edit Studios
 # Seasonal Logos
 
 {: .important }
-**One Sentence Summary.**
+**Temporary seasonal logos should not be used when a more permanent variation is available.**
 
 ---
 
-Long form description.
-
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+Occasionally, studio websites will temporarily change their logo for a particular event or cause. Examples include Halloween, Pride Month, some kind of awareness/fundraising campaign, etc. These temporary logos should not be used as the primary logo on StashDB when a more recent and permanent variation is available. If a non-seasonal image cannot be found on the current studio website, the Wayback Machine and any other external sources should be checked first before using the seasonal variation as a placeholder.

@@ -9,14 +9,11 @@ grand_parent: Edit Scenes
 # Preferred Scene Titles
 
 {: .important }
-**One Sentence Summary.**
+**Original official scene titles are preferred.**
 
 ---
 
-Long form description.
+Original scene titles provided by the official studio website are always the preferred scene title. Scene titles that have been modified by the studio after its original release should not be used as the scene title on StashDB.
 
-[External link](https://stashdb.org/performers/fbd10ce7-3209-4788-b84f-3a2ec1b19326){:target="_blank"}.
-
-[Internal link]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/).
-
-[Relative link](../jav-names/).
+{: .note }
+Unconfirmed guideline, subject to change pending formal approval.

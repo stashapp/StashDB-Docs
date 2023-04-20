@@ -6,6 +6,7 @@ has_children: true
 has_toc: false
 parent: Edit Studios
 grand_parent: Studios
+published: false
 ---
 
 # Studio Name

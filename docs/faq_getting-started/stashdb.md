@@ -47,10 +47,10 @@ parent: FAQ / Getting Started
 **Necessary for accessing StashDB, click link for details.** *[See more...](joining-our-discord)*
 
 
-### [Accessing StashDB](accessing-stashdb)
+### [Accessing Stash-Boxes](accessing-stash-boxes)
 
 {: .important }
-**Must create an account, details found on Discord pinned to #stashdb-invites.** *[See more...](accessing-stashdb)*
+**Details on connecting StashDB and others to Stash.** *[See more...](accessing-stash-boxes)*
 
 
 ### [Using StashDB](using-stashdb)

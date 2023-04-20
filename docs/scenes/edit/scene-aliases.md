@@ -30,7 +30,7 @@ grand_parent: Scenes
 
 ***
 
-### [Section Name](section-name)
+### [Preferred Aliases](preferred-scene-aliases)
 
 {: .important }
-**One sentence summary.** *[See more...](section-name)*
+**Should be the name officially credited to the performer at the time of release.** *[See more...](preferred-scene-aliases)*

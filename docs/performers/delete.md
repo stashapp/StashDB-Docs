@@ -5,6 +5,7 @@ nav_order: 4
 has_children: true
 has_toc: false
 parent: Performers
+published: false
 ---
 
 # Delete Performers

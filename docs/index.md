@@ -25,7 +25,7 @@ This website is very much a work in progress at this time so watch for significa
 </details>
 
 ***
-## StashDB Overview
+## **StashDB Overview**
 StashDB is our shared public instance of the Stash-Box software. It hosts information about a wide variety of scenes, studios, and performers that can be easily pulled into your own installation of Stash. It does not host any video files or link to any unofficial downloads.
 
 Primarily, StashDB hosts information about relatively professional digital content of all orientations. This means all of the major digital networks are well covered. [Amateur content]({{ site.baseurl }}/docs/studios/create/amateur-studios/) hosted on a handful of platforms is also eligible for StashDB, but services like OnlyFans and Patreon are not. JAV is also allowed but is often subject to different guidelines. Most examples of [animated content]({{ site.baseurl }}/docs/create/animated-studios/) and [full movies]({{ site.baseurl }}/docs/scenes/create/full-dvd-entries/) are not allowed at this time, but there are a few exceptions.
@@ -33,7 +33,7 @@ Primarily, StashDB hosts information about relatively professional digital conte
 Some of the content not currently allowed on StashDB can be found on other publicly available Stash-Boxes. Unlike StashDB, these Stash-Boxes are not run by the Stash team but are still directly compatible with the Stash software. [A full list of Stash-Boxes can be found here]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stash-boxes/).
 
 ## **Category Overviews**
-Guideline sections are organized by each main object type: [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages are then split into the actions you can take with each object: Create, Edit, Merge, and Delete. "Edit" pages are broken down further into each available field for that object, reflecting the order in which they appear on StashDB.
+Guideline sections are organized by each main object type: [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages are then split into the actions you can take with each object: **Create**, **Edit**, **Merge**, and **Delete**. These **Edit** pages are broken down further into each available field for that object, reflecting the order in which they appear on StashDB.
 
 Parent pages serve as overviews of the entire category. Sometimes they will include one sentence summaries of each guideline section followed by links to more detailed explanations. All of these can also be found on the left side of this webpage.
 

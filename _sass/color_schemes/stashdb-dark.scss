@@ -7,10 +7,10 @@ $body-text-color: #FFFFFF;
 $body-heading-color: #F5F8FA;
 $nav-child-link-color: #E9ECEF;
 $border-color: #808080;
-$table-background-color: $grey-dk-250;
+$table-background-color: #394B59fa;
 $feedback-color: darken($sidebar-color, 3%);
-$search-result-preview-color: $grey-dk-000;
-$search-background-color: $grey-dk-250;
+$search-result-preview-color: darken($body-heading-color, 10%);
+$search-background-color: #394B59fa;
 
 // The following highlight theme is more legible than that used for the light color scheme
 

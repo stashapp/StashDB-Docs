@@ -24,7 +24,7 @@ Everything here is listed in reverse chronological order with the most recent up
 ## 2023
 
 ### April
-- Merge organizational overhaul by [@AdultSun]{:target="_blank"} in [PR #45]{:target="_blank"}
+- Merge organization overhaul by [@AdultSun]{:target="_blank"} in [PR #45]{:target="_blank"}
 
 [PR #45]: https://github.com/stashapp/StashDB-Docs/pull/45
 

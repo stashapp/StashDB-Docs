@@ -6,11 +6,11 @@ nav_order: 99
 
 # **Changelog: StashDB-Docs**
 {: .no_toc }
-The following is a rundown of major changes and updates to the guidelines. Minor fixes (spelling, grammar, formatting bugs, etc.) will likely not be included here but may be found in the [list of commits for this repo](https://github.com/stashapp/StashDB-Docs/commits/main) instead.
+The following is a rundown of major changes and updates to the guidelines. Minor fixes (spelling, grammar, formatting bugs, etc.) will likely not be included here but may be found in the [list of commits for this repo](https://github.com/stashapp/StashDB-Docs/commits/main){:target="_blank"} instead.
 
 Everything here is listed in reverse chronological order with the most recent updates at the top of each section.
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table of Contents
   </summary>
@@ -23,22 +23,27 @@ Everything here is listed in reverse chronological order with the most recent up
 
 ## 2023
 
+### April
+- Merge organization overhaul by [@AdultSun]{:target="_blank"} in [PR #45]{:target="_blank"}
+
+[PR #45]: https://github.com/stashapp/StashDB-Docs/pull/45
+
 ### February
-- Add "Diacritics in Performer Names" by [@DogmaDragon] and [@AdultSun] in [PR #41] and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1076296943996780565)
+- Add "Diacritics in Performer Names" by [@DogmaDragon]{:target="_blank"} and [@AdultSun]{:target="_blank"} in [PR #41]{:target="_blank"} and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1076296943996780565){:target="_blank"}
 
 [PR #41]: https://github.com/stashapp/StashDB-Docs/pull/41
 
 ## 2022
 
 ### December 2022
-- Add "Capitalizing Tag Names and Aliases", by [@AdultSun] in [PR #13] and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1038607732116303943)
-- Creates changelog, by [@AdultSun] in [PR #12]
+- Add "Capitalizing Tag Names and Aliases", by [@AdultSun]{:target="_blank"} in [PR #13]{:target="_blank"} and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1038607732116303943){:target="_blank"}
+- Creates changelog, by [@AdultSun]{:target="_blank"} in [PR #12]{:target="_blank"}
 
 [PR #13]: https://github.com/stashapp/StashDB-Docs/pull/13
 [PR #12]: https://github.com/stashapp/StashDB-Docs/pull/12
 
 ### November 2022
-- Updates "Guide to Scraping" to include connecting to Stash, by [@DogmaDragon] and [@AdultSun] in [PR #3]
+- Updates "Guide to Scraping" to include connecting to Stash, by [@DogmaDragon]{:target="_blank"} and [@AdultSun]{:target="_blank"} in [PR #3]{:target="_blank"}
 
 [PR #3]: https://github.com/stashapp/StashDB-Docs/pull/3
 

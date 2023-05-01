@@ -7,11 +7,11 @@ permalink: /
 
 # StashDB Contribution Guidelines
 {: .no_toc }
-**Welcome to the new StashDB Guidelines!**
+**Welcome to the StashDB Guidelines!**
 
-This website will serve as a guide and reference document for all contributors to StashDB. It hosts both tips (see the ["Getting Started" sections](#getting-started-pages)) and requirements ([see... everything else](#category-overviews)) to getting your edits approved. As always, if something is missing or doesn't make sense, please ask in either **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
+This will serve as a guide and reference document for all contributors to StashDB. It hosts both [tips]({{ site.baseurl }}/docs/faq_getting-started/) for new contributors as well as the guidelines themselves. Being familiar with both will help in getting your edits approved. If something is missing or doesn't make sense, please ask in either **#stashdb-general** or the **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/).
 
-We've moved the guidelines out of the GitHub wiki and it will see no further updates. This website should be considered your primary resource moving forward. It is very much a work in progress at this time so watch for significant updates in the coming days. It is hosted with GitHub Pages, so please direct any suggestions for improving this website to [the repo linked here](https://github.com/stashapp/StashBox-Docs){:target="_blank"} as a PR or Issue. Feel free to contact **@AdultSun** on Discord with any suggestions as well.
+This website is very much a work in progress at this time so watch for significant updates in the coming days. It is hosted with GitHub Pages, so please direct any suggestions for improving this website to the [StashDB-Docs repo](https://github.com/stashapp/StashDB-Docs){:target="_blank"} as a PR or Issue. Feel free to contact **@AdultSun** on Discord with any suggestions as well.
 
 ***
 
@@ -25,9 +25,17 @@ We've moved the guidelines out of the GitHub wiki and it will see no further upd
 </details>
 
 ***
+## **StashDB Overview**
+StashDB is our shared public instance of the Stash-Box software. It hosts information about a wide variety of scenes, studios, and performers that can be easily pulled into your own installation of Stash. It does not host any video files or link to any unofficial downloads.
+
+Primarily, StashDB hosts information about relatively professional digital content of all orientations. This means all of the major digital networks are well covered. [Amateur content]({{ site.baseurl }}/docs/studios/create/amateur-studios/) hosted on a handful of platforms is also eligible for StashDB, but services like OnlyFans and Patreon are not. JAV is also allowed but is often subject to different guidelines. Most examples of [animated content]({{ site.baseurl }}/docs/create/animated-studios/) and [full movies]({{ site.baseurl }}/docs/scenes/create/full-dvd-entries/) are not allowed at this time, but there are a few exceptions.
+
+Some of the content not currently allowed on StashDB can be found on other publicly available Stash-Boxes. Unlike StashDB, these Stash-Boxes are not run by the Stash team but are still directly compatible with the Stash software. [A full list of Stash-Boxes can be found here]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stash-boxes/).
 
 ## **Category Overviews**
-Most of the guidelines will be organized under [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages serve as overviews that summarize the entire category. More detailed sections can be found in additional pages underneath the category. All of these can also be found on the left side of this webpage.
+Guideline sections are organized by each main object type: [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages are then split into the actions you can take with each object: **Create**, **Edit**, **Merge**, and **Delete**. These **Edit** pages are broken down further into each available field for that object, reflecting the order in which they appear on StashDB.
+
+Parent pages serve as overviews of the entire category. Sometimes they will include one sentence summaries of each guideline section followed by links to more detailed explanations. All of these can also be found on the left side of this webpage.
 
 - [Performers]({{ site.baseurl }}/docs/performers/)
 - [Scenes]({{ site.baseurl }}/docs/scenes/)
@@ -37,71 +45,14 @@ Most of the guidelines will be organized under [Performers]({{ site.baseurl }}/d
 ***
 
 ## **Getting Started Pages**
-The following **Getting Started** sections are general advice and explanations for potentially confusing aspects in our database. Because they don't represent explicit decisions concerning database management or curation, they do not require formal approval. **Getting Started** pages specific to [Performers]({{ site.baseurl }}/docs/performers/getting-started-performers/), [Scenes]({{ site.baseurl }}/docs/scenes/getting-started-scenes/), [Studios]({{ site.baseurl }}/docs/studios/getting-started-studios/), and [Tags]({{ site.baseurl }}/docs/tags/getting-started-tags/) can also be found under their respective categories in the navigation tree to the left.
+The following **Getting Started** sections are general advice and explanations for potentially confusing aspects in our database. Because they don't represent explicit decisions concerning database management or curation, they do not require formal approval. The first topic named [StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/) covers broader topics that aren't exclusive to a single category. The rest are organized by each main heading across the top of StashDB. All of these can also be found on the left side of this webpage under [FAQ / Getting Started]({{ site.baseurl }}/docs/faq_getting-started/).
 
-- [Getting Started: Performers]({{ site.baseurl }}/docs/performers/getting-started-performers/)
-- [Getting Started: Scenes]({{ site.baseurl }}/docs/scenes/getting-started-scenes/)
-- [Getting Started: Studios]({{ site.baseurl }}/docs/studios/getting-started-studios/)
-- [Getting Started: Tags]({{ site.baseurl }}/docs/tags/getting-started-tags/)
-
-***
-
-## **[Getting Started: StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/)**
-The sections below cover broader subjects that are not exclusive to one of those four categories. Clicking any of the headings here will also take you to a dedicated page with more details.
-
-### [What is StashDB?]({{ site.baseurl }}/docs/getting-started-stashdb/#what-is-stashdb)
-  - **Our shared database of scene, performer, and studio metadata. Does not host video files or unofficial download links.**
-
-### [What Makes StashDB Better?]({{ site.baseurl }}/docs/getting-started-stashdb/#what-makes-stashdb-better)
-  - **Full integration with Stash and improved scene matching using various fingerprints (PHashes).**
-
-### [Joining Our Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord)
-  - **Necessary for accessing StashDB, click link for details.**
-
-### [Accessing StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#accessing-stashdb)
-  - **Must create an account, details found on Discord pinned to #stashdb-invites.**
-
-### [Using StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#using-stashdb)
-  - **Tagger Views are recommended for pulling info from StashDB, Identify task is faster but less accurate.**
-
-### [What's a PHash?]({{ site.baseurl }}/docs/getting-started-stashdb/#whats-a-phash)
-  - **Perceptual hashes are generated from what a video looks like, allowing for more reliable scene matching with StashDB.**
-
-### [What's a StashID?]({{ site.baseurl }}/docs/getting-started-stashdb/#whats-a-stashid)
-  - **Unique ID for entries in StashDB, found at the end of URLs and saved to Stash after a match.**
-
-### [Contributing to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#contributing-to-stashdb)
-  - **Submitting fingerprints is possible with every account but any other edit/submission requires new permissions, details found on Discord pinned to #stashdb-invites.**
-
-### [Submitting Drafts to StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#submitting-drafts-to-stashdb)
-  - **Can create/update scenes and performers, but be sure to look on StashDB first and to generate PHashes.**
-
-### [Updating and Cancelling Edits]({{ site.baseurl }}/docs/getting-started-stashdb/#updating-and-cancelling-edits)
-  - **You can update your own pending edit exactly once, otherwise you may need to cancel and resubmit.**
-
-### [Bulk Edits]({{ site.baseurl }}/docs/getting-started-stashdb/#bulk-edits)
-  - **Big projects that require a large number of edits should be pitched on Discord first for approval.**
-
-### [Voting on StashDB]({{ site.baseurl }}/docs/getting-started-stashdb/#voting-on-stashdb)
-  - **Different voting thresholds apply to destructive vs. non-destructive edits. Voting rights granted automatically after 10 approved submissions.**
-
-### [Asking for Votes]({{ site.baseurl }}/docs/getting-started-stashdb/#asking-for-votes)
-  - **Asking on Discord is discouraged unless the edit needs to be approved before additional edits can be submitted.**
-
-### [Unconfirmed Guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines)
-  - **Still expected to be followed but subject to change pending formal approval.**
-
-### [Guideline Proposals]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals)
-  - **Changes to guidelines require formal approval, so ask about it on Discord first.**
-
-### [Edit Comments]({{ site.baseurl }}/docs/getting-started-stashdb/#edit-comments)
-  - **Say what you're doing, why you're doing it, and what your sources are.**
-
-### [Low Effort Submissions]({{ site.baseurl }}/docs/getting-started-stashdb/#low-effort-submissions)
-  - **Submissions may be rejected as "low effort" if it will take more time/effort to fix than it would've taken the OP to do correctly in the first place.**
-
-### [Backlog Spreadsheet]({{ site.baseurl }}/docs/getting-started-stashdb/#backlog-spreadsheet)
-  - **Anything that can't be fixed from within StashDB yet should be logged here, including incorrect fingerprints.**
-
-### [AdBlockers]({{ site.baseurl }}/docs/getting-started-stashdb/#adblockers)
-  - **Turn them off on StashDB, otherwise some images will appear "broken".**
+- [StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/)
+- [Performers]({{ site.baseurl }}/docs/faq_getting-started/performers/)
+- [Scenes]({{ site.baseurl }}/docs/faq_getting-started/scenes/)
+- [Studios]({{ site.baseurl }}/docs/faq_getting-started/studios/)
+- [Tags]({{ site.baseurl }}/docs/faq_getting-started/tags/)
+- [Edits]({{ site.baseurl }}/docs/faq_getting-started/edits/)
+- [Drafts]({{ site.baseurl }}/docs/faq_getting-started/drafts/)
+- [User]({{ site.baseurl }}/docs/faq_getting-started/user/)
+- [Search]({{ site.baseurl }}/docs/faq_getting-started/search/)

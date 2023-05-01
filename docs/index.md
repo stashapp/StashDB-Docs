@@ -32,6 +32,8 @@ Primarily, StashDB hosts information about relatively professional digital conte
 
 Some of the content not currently allowed on StashDB can be found on other publicly available Stash-Boxes. Unlike StashDB, these Stash-Boxes are not run by the Stash team but are still directly compatible with the Stash software. [A full list of Stash-Boxes can be found here]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stash-boxes/).
 
+***
+
 ## **Category Overviews**
 Guideline sections are organized by each main object type: [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages are then split into the actions you can take with each object: **Create**, **Edit**, **Merge**, and **Delete**. These **Edit** pages are broken down further into each available field for that object, reflecting the order in which they appear on StashDB.
 

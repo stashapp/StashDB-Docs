@@ -23,12 +23,12 @@ Everything here is listed in reverse chronological order with the most recent up
 
 ## 2023
 
-### April
+### April 2023
 - Merge organization overhaul by [@AdultSun]{:target="_blank"} in [PR #45]{:target="_blank"}
 
 [PR #45]: https://github.com/stashapp/StashDB-Docs/pull/45
 
-### February
+### February 2023
 - Add "Diacritics in Performer Names" by [@DogmaDragon]{:target="_blank"} and [@AdultSun]{:target="_blank"} in [PR #41]{:target="_blank"} and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1076296943996780565){:target="_blank"}
 
 [PR #41]: https://github.com/stashapp/StashDB-Docs/pull/41

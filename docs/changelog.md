@@ -23,6 +23,11 @@ Everything here is listed in reverse chronological order with the most recent up
 
 ## 2023
 
+### May 2023
+- Add "Disambiguating Single Names" by [@AdultSun]{:target="_blank"} in [PR #55]{:target="_blank"}
+
+[PR #55]: https://github.com/stashapp/StashDB-Docs/pull/55
+
 ### April 2023
 - Merge organization overhaul by [@AdultSun]{:target="_blank"} in [PR #45]{:target="_blank"}
 

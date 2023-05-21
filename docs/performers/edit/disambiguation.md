@@ -34,3 +34,9 @@ grand_parent: Performers
 
 {: .important }
 **No standardized format, but a combination of career dates and some unique characteristic should work for most performers.** *[See more...](disambiguation-formatting)*
+
+
+### [Single Names](disambiguating-single-names)
+
+{: .important }
+**Performers with a single word as their primary name require disambiguation.** *[See more...](disambiguating-single-names)*

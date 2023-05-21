@@ -36,6 +36,7 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 |Homepage|[https://stashdb.org/](https://stashdb.org/){:target="_blank"}|
 |Endpoint|[https://stashdb.org/graphql](https://stashdb.org/graphql){:target="_blank"}|
 |Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
+|Matrix|[https://matrix.to/#/#stashapp:unredacted.org](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}|
 |Content|Digital scenes of all orientations, relying on user submission and curation.|
 
 ### Accessing StashDB
@@ -67,12 +68,26 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 |Homepage|[https://pmvstash.org/](https://pmvstash.org/){:target="_blank"}|
 |Endpoint|[https://pmvstash.org/graphql](https://pmvstash.org/graphql){:target="_blank"}|
 |Discord|[https://discord.com/invite/GQbeYVBYQ4](https://discord.com/invite/GQbeYVBYQ4){:target="_blank"}|
-|Content|Porn Music Videos and other fan-edited compilations.|
+|Content|Porn Music Videos and other fan-edited remixes.|
 
-### Accessing PMV Stash's Stash-Box
+### Accessing PMV Stash
 {: .no_toc }
 
 1. Grab an invite token from the **#welcome** channel of their [Discord server](https://discord.com/invite/GQbeYVBYQ4){:target="_blank"}
 1. Register an account at [https://pmvstash.org/register](https://pmvstash.org/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above
+
+## FansDB
+
+|-|-|
+|Homepage|[https://fansdb.xyz/](https://fansdb.xyz/){:target="_blank"}|
+|Endpoint|[https://fansdb.xyz/graphql](https://fansdb.xyz/graphql){:target="_blank"}|
+|Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
+|Matrix|[https://matrix.to/#/#stashapp:unredacted.org](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}|
+|Content|Clips from amateur subscription platforms, including OnlyFans.|
+
+### Accessing FansDB
+{: .no_toc }
+
+FansDB is still being setup and is not yet available to the general public. For anyone interested in helping with FansDB's launch in an admin or mod role, please inquire in the **#fansdb** channel on Discord or Matrix.

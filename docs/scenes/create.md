@@ -47,7 +47,7 @@ parent: Scenes
 **Must be original scenes made and uploaded by verified creators.** *[See more...](pornhub-scenes)*
 
 
-### [Full DVD Entries](full-dvd-entries)
+### [Full Movies](full-movie-entries)
 
 {: .important }
-**Full movies only allowed for JAV releases or western releases available directly from official studio websites.** *[See more...](full-dvd-entries)*
+**Full movies only allowed for JAV releases or western releases available directly from official studio websites.** *[See more...](full-movie-entries)*

@@ -84,7 +84,7 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 |Homepage|[https://fansdb.xyz/](https://fansdb.xyz/){:target="_blank"}|
 |Endpoint|[https://fansdb.xyz/graphql](https://fansdb.xyz/graphql){:target="_blank"}|
 |Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
-|Matrix|[https://matrix.to/#/#stashapp:unredacted.org](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}|
+|Matrix|[https://matrix.to/#/#stash-fansdb:unredacted.org](https://matrix.to/#/#stash-fansdb:unredacted.org){:target="_blank"}|
 |Content|Clips from amateur subscription platforms, including OnlyFans.|
 
 ### Accessing FansDB

@@ -24,8 +24,10 @@ Everything here is listed in reverse chronological order with the most recent up
 ## 2023
 
 ### May 2023
+- Add "Split Movie Scenes" by [@AdultSun]{:target="_blank"} in [PR #57]{:target="_blank"}
 - Add "Disambiguating Single Names" by [@AdultSun]{:target="_blank"} in [PR #55]{:target="_blank"}
 
+[PR #57]: https://github.com/stashapp/StashDB-Docs/pull/57
 [PR #55]: https://github.com/stashapp/StashDB-Docs/pull/55
 
 ### April 2023

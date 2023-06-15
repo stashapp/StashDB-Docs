@@ -17,7 +17,7 @@ There are no hard guidelines for choosing primary performer names at this time. 
 
 The following should also be taken into consideration: most frequently used alias, most famous/popular alias, most commonly used name on other databases like IAFD, and alias currently/recently preferred by the performer (often determined by social media profiles).
 
-Also be aware that names are only eligible to be primary names if they've been used as an official adult credit, following the same requirements as [Eligible Aliases](.../aliases/eligible-aliases).
+Also be aware that names are only eligible to be primary names if they've been used as an official adult credit, following the same requirements as [Eligible Aliases](../../performer-aliases/eligible-aliases).
 
 {: .note }
 Unconfirmed guideline, subject to change pending formal approval.

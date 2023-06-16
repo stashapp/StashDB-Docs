@@ -17,4 +17,4 @@ Diacritics are the marks added above or below a letter to indicate a difference 
 
 Also, please be aware that the same considerations explained in [Preferred Names]({{ site.baseurl }}/docs/performers/edit/name/preferred-names/) still apply here. A name without diacritical marks may still be preferrable as the primary if it's by far the most commonly used spelling for that performer, for example.
 
-[JAV Names](../jav-names/) are a notable exception to all of the above. Please see that page for more details.
+[JAV Names]({{ site.baseurl }}/docs/performers/edit/performer-name/jav-names/) are a notable exception to all of the above. Please see that page for more details.

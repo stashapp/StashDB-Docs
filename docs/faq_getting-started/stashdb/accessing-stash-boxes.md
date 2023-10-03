@@ -93,4 +93,4 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 At the moment FansDB is invite only, but applications are now open for early birds who want to help jumpstart the database.  
 Read the [guidelines](https://docs.fansdb.xyz) and apply [here](https://cryptpad.fr/form/#/2/form/view/akRPLRKcrUvx0ydSwOPGWlnq5bSlpJQpLrTGTrjgTeE/).  
 
-For more details check out Discord or Matrix. 
+For more details check out Discord (**#fansdb** channel) or Matrix (**#stash-fansdb:unredacted.org** room). 

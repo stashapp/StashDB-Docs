@@ -90,4 +90,7 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 ### Accessing FansDB
 {: .no_toc }
 
-FansDB is still being setup and is not yet available to the general public. For anyone interested in helping with FansDB's launch in an admin or mod role, please inquire in the **#fansdb** channel on Discord or Matrix.
+At the moment FansDB is invite only, but applications are now open for early birds who want to help jumpstart the database.  
+Read the [guidelines](https://docs.fansdb.xyz) and apply [here](https://cryptpad.fr/form/#/2/form/view/akRPLRKcrUvx0ydSwOPGWlnq5bSlpJQpLrTGTrjgTeE/).  
+
+For more details check out Discord or Matrix. 

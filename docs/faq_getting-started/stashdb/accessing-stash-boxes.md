@@ -90,4 +90,11 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 ### Accessing FansDB
 {: .no_toc }
 
-FansDB is still being setup and is not yet available to the general public. For anyone interested in helping with FansDB's launch in an admin or mod role, please inquire in the **#fansdb** channel on Discord or Matrix.
+1. Apply for an invite token, see details below.
+1. Register an account at [https://fansdb.xyz/register](https://fansdb.xyz/register){:target="_blank"}
+1. While logged in, click on your username near the top-right corner and find your API key
+1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above
+
+At the moment FansDB is invite only, but applications are now open for early birds who want to help jumpstart the database. Read the [guidelines](https://docs.fansdb.xyz){:target="_blank"} and [apply here](https://cryptpad.fr/form/#/2/form/view/akRPLRKcrUvx0ydSwOPGWlnq5bSlpJQpLrTGTrjgTeE/){:target="_blank"}.
+
+For more details, check out the **#fansdb** channel on Discord or the **#stash-fansdb:unredacted.org** room on Matrix.

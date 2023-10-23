@@ -6,7 +6,6 @@ has_children: true
 has_toc: false
 parent: Edit Scenes
 grand_parent: Scenes
-published: false
 ---
 
 # Scene Images
@@ -31,7 +30,7 @@ published: false
 
 ***
 
-### [Section Name](section-name)
+### [Animated Covers](animated-scene-covers)
 
 {: .important }
-**One sentence summary.** *[See more...](section-name)*
+**Official static scene covers are preferred whenever possible, otherwise closest static equivalent is fine.** *[See more...](animated-scene-covers)*

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Image Selection"
-nav_order: 8
+nav_order: 9
 has_children: false
 parent: Images
 grand_parent: Edit Performers

@@ -51,3 +51,9 @@ parent: Scenes
 
 {: .important }
 **Full movies only allowed for JAV releases or western releases available directly from official studio websites.** *[See more...](full-movie-entries)*
+
+
+### [Split Movies](split-movie-scenes)
+
+{: .important }
+**Scenes split from movies are only allowed when offered by the studio's 1st party website, not 3rd party storefronts.** *[See more...](split-movie-scenes)*

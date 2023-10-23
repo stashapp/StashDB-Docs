@@ -13,7 +13,7 @@ grand_parent: Edit Performers
 
 ---
 
-Not all names and aliases listed on external sources are appropriate on StashDB. Names must have been used as an official adult credit somewhere to be eligible as a primary name or alias on StashDB. This disallows legal names in almost all instances. Please see [Eligible Aliases](../aliases/eligible-aliases.md) for more details on alias requirements.
+Not all names and aliases listed on external sources are appropriate on StashDB. Names must have been used as an official adult credit somewhere to be eligible as a primary name or alias on StashDB. This disallows legal names in almost all instances. Please see [Eligible Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/eligible-aliases/) for more details on alias requirements.
 
 Users should be cautious when sourcing names and aliases from FreeOnes in particular. Because FreeOnes disallows single name performers, some contributors bypass the limitation by fabricating longer names for single name performers. These usually consist of two single name aliases merged into one. For example, a performer with the aliases `Lucy` and `Jane` could become `Lucy Jane` on FreeOnes. Since these names are not used anywhere else, they should not be included on StashDB.
 

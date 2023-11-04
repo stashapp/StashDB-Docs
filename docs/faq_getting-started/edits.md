@@ -29,6 +29,12 @@ parent: FAQ / Getting Started
 
 ***
 
+### [Losing Edit Access](moderation-enforcement)
+
+{: .important }
+**At the discretion of an admin, a user’s edit access may be revoked at any time to maintain the integrity of the database and community.** *[See more...](moderation-enforcement)*
+
+
 ### [Updating Edits](updating-edits)
 
 {: .important }

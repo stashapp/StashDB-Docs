@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Low Effort Submissions
-nav_order: 6
+nav_order: 7
 parent: 'Edits'
 grand_parent: FAQ / Getting Started
 ---

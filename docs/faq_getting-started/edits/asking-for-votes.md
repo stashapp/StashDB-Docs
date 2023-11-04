@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Asking for Votes
-nav_order: 4
+nav_order: 5
 parent: 'Edits'
 grand_parent: FAQ / Getting Started
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bulk Edits
-nav_order: 7
+nav_order: 8
 parent: 'Edits'
 grand_parent: FAQ / Getting Started
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Updating Edits
-nav_order: 1
+nav_order: 2
 parent: 'Edits'
 grand_parent: FAQ / Getting Started
 ---

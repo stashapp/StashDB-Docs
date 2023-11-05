@@ -31,7 +31,7 @@ In short, we ask all contributors to act conscientiously with the best interests
 
 An admin will almost always attempt to warn a user first when their actions could lead to the loss of their EDIT and VOTE roles. If the warning goes ***ignored or unseen***, continued violations will result in disciplinary action.
 
-However, an admin may also decide to revoke these privileges ***without warning*** in order to prevent further violations. This most often occurs to limit the damage when a user is in the middle of a run of violations and is not immediately responding to requests to stop.
+However, an admin may also decide to revoke these privileges ***without warning*** in order to prevent further violations. This decision is most often made to limit the damage of a user in the middle of a run of violations who is not immediately responding to requests to stop.
 
 A user’s EDIT and VOTE roles may be restored ***exactly one time***, but only if an admin considers it appropriate to the situation. If these privileges are revoked a second time, ***it will be permanent***. We are a small team who are unable to spend an extended period of time dealing with multiple violations/appeals from a single account. ***All decisions are final***.
 
@@ -46,6 +46,7 @@ The following provides more specific explanations and examples for violations of
 
 1. ### Abuse of the edit system
     1. Flooding the edit queue [without warning or permission]({{ site.baseurl }}/docs/faq_getting-started/edits/bulk-edits/)
+    1. Automated submissions [without permission]({{ site.baseurl }}/docs/faq_getting-started/edits/bulk-edits/)
     1. Repeated submissions of the exact same edit, ignoring rejection/cancellation/failure
     1. Excessive or misleading updates to submissions
 1. ### Abuse of the voting system

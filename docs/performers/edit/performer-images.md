@@ -72,6 +72,12 @@ grand_parent: Performers
 **Images showing extreme BDSM practices should be cropped if possible, rejected or removed if better images are available.** *[See more...](bdsm-performer-images)*
 
 
+### [Animated Images](animated-performer-images)
+
+{: .important }
+**Performer images must be static, animated images are not allowed at this time.** *[See more...](animated-performer-images)*
+
+
 ### [Image Selection](performer-image-selection)
 
 {: .important }

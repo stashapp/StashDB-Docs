@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cancelling Edits
-nav_order: 2
+nav_order: 3
 parent: 'Edits'
 grand_parent: FAQ / Getting Started
 ---

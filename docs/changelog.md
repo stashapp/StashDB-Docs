@@ -23,6 +23,12 @@ Everything here is listed in reverse chronological order with the most recent up
 
 ## 2023
 
+### November 2023
+- Add "StashDB Moderation Enforcement" by [@AdultSun]{:target="_blank"} in [PR #66]{:target="_blank"} and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1124860754869366805){:target="_blank"}
+- Update homepage by [@AdultSun]{:target="_blank"} in [PR #66]{:target="_blank"}
+
+[PR #66]: https://github.com/stashapp/StashDB-Docs/pull/66
+
 ### October 2023
 - Add "Animated Scene Covers" by [@AdultSun]{:target="_blank"} in [PR #58]{:target="_blank"}
 - Add "Animated Performer Images" by [@AdultSun]{:target="_blank"} in [PR #58]{:target="_blank"}

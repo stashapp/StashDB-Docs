@@ -34,15 +34,12 @@ Some of the content not currently allowed on StashDB can be found on other publi
 
 ***
 
-## **Category Overviews**
-Guideline sections are organized by each main object type: [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages are then split into the actions you can take with each object: **Create**, **Edit**, **Merge**, and **Delete**. These **Edit** pages are broken down further into each available field for that object, reflecting the order in which they appear on StashDB.
+## **New Contributors**
+For anyone who wants to browse or pull data from StashDB, you will first need to create a StashDB account using an invite token. Instructions found [here]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stash-boxes/#stashdb). New accounts will be limited to read-only access, but will still be able to [submit fingerprints]({{ site.baseurl }}/docs/faq_getting-started/stashdb/whats-a-phash/) back to StashDB to help others find matches for their files.
 
-Parent pages serve as overviews of the entire category. Sometimes they will include one sentence summaries of each guideline section followed by links to more detailed explanations. All of these can also be found on the left side of this webpage.
+In order to fix incorrect info or add missing data, your account will need to be granted edit access. More information can be found [here]({{ site.baseurl }}/docs/faq_getting-started/stashdb/contributing-to-stashdb/) with more detailed instructions in [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/) pinned to the **#stashdb-invites** channel. [Voting access]({{ site.baseurl }}/docs/faq_getting-started/edits/voting/) comes later. Make sure to watch for comments/downvotes on your edits and messages on Discord/Matrix alerting you to any issues or possible violations of the guidelines.
 
-- [Performers]({{ site.baseurl }}/docs/performers/)
-- [Scenes]({{ site.baseurl }}/docs/scenes/)
-- [Studios]({{ site.baseurl }}/docs/studios/)
-- [Tags]({{ site.baseurl }}/docs/tags/)
+***At the discretion of an admin, a user’s edit access may be revoked at any time.*** This happens very rarely and is only done when absolutely necessary to maintain the integrity of both the database and the community. The most common reason for losing these privileges is a lack of communication. More information on our enforcement process can be found [here]({{ site.baseurl }}/docs/faq_getting-started/edits/moderation-enforcement/).
 
 ***
 
@@ -58,3 +55,15 @@ The following **Getting Started** sections are general advice and explanations f
 - [Drafts]({{ site.baseurl }}/docs/faq_getting-started/drafts/)
 - [User]({{ site.baseurl }}/docs/faq_getting-started/user/)
 - [Search]({{ site.baseurl }}/docs/faq_getting-started/search/)
+
+***
+
+## **Guideline Overview**
+Guideline sections are organized by each main object type: [Performers]({{ site.baseurl }}/docs/performers/), [Scenes]({{ site.baseurl }}/docs/scenes/), [Studios]({{ site.baseurl }}/docs/studios/), and [Tags]({{ site.baseurl }}/docs/tags/). These parent pages are then split into the actions you can take with each object: **Create**, **Edit**, **Merge**, and **Delete**. These **Edit** pages are broken down further into each available field for that object, reflecting the order in which they appear on StashDB.
+
+Parent pages serve as overviews of the entire category. Sometimes they will include one sentence summaries of each guideline section followed by links to more detailed explanations. All of these can also be found on the left side of this webpage.
+
+- [Performers]({{ site.baseurl }}/docs/performers/)
+- [Scenes]({{ site.baseurl }}/docs/scenes/)
+- [Studios]({{ site.baseurl }}/docs/studios/)
+- [Tags]({{ site.baseurl }}/docs/tags/)

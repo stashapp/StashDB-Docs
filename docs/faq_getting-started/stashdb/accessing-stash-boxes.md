@@ -82,6 +82,7 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 
 |-|-|
 |Homepage|[https://fansdb.cc/](https://fansdb.cc/){:target="_blank"}|
+|Guidelines|[https://docs.fansdb.cc/](https://dopcs.fansdb.cc/){:target="_blank"}|
 |Endpoint|[https://fansdb.cc/graphql](https://fansdb.cc/graphql){:target="_blank"}|
 |Discord|[https://discord.gg/RcNgXPqd49](https://discord.gg/RcNgXPqd49){:target="_blank"}|
 |Content|Adult platform sites where the independent performers are focus.|

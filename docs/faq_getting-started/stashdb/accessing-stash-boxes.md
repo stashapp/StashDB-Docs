@@ -34,6 +34,7 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 
 |-|-|
 |Homepage|[https://stashdb.org/](https://stashdb.org/){:target="_blank"}|
+|Guidelines|[https://guidelines.stashdb.org/](https://https://guidelines.stashdb.org/){:target="_blank"}|
 |Endpoint|[https://stashdb.org/graphql](https://stashdb.org/graphql){:target="_blank"}|
 |Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
 |Matrix|[https://matrix.to/#/#stashapp:unredacted.org](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}|
@@ -82,7 +83,7 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 
 |-|-|
 |Homepage|[https://fansdb.cc/](https://fansdb.cc/){:target="_blank"}|
-|Guidelines|[https://docs.fansdb.cc/](https://dopcs.fansdb.cc/){:target="_blank"}|
+|Guidelines|[https://docs.fansdb.cc/](https://docs.fansdb.cc/){:target="_blank"}|
 |Endpoint|[https://fansdb.cc/graphql](https://fansdb.cc/graphql){:target="_blank"}|
 |Discord|[https://discord.gg/RcNgXPqd49](https://discord.gg/RcNgXPqd49){:target="_blank"}|
 |Content|Adult platforms where the independent creators are the primary focus.|

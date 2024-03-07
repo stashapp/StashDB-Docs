@@ -36,6 +36,7 @@ If you need a more detailed walkthrough on how to register an account with one o
 
 |-|-|
 |Homepage|[https://stashdb.org/](https://stashdb.org/){:target="_blank"}|
+|Guidelines|[https://guidelines.stashdb.org/](https://https://guidelines.stashdb.org/){:target="_blank"}|
 |Endpoint|[https://stashdb.org/graphql](https://stashdb.org/graphql){:target="_blank"}|
 |Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
 |Matrix|[https://matrix.to/#/#stashapp:unredacted.org](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}|
@@ -83,20 +84,18 @@ If you need a more detailed walkthrough on how to register an account with one o
 ## FansDB
 
 |-|-|
-|Homepage|[https://fansdb.xyz/](https://fansdb.xyz/){:target="_blank"}|
-|Endpoint|[https://fansdb.xyz/graphql](https://fansdb.xyz/graphql){:target="_blank"}|
-|Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
-|Matrix|[https://matrix.to/#/#stash-fansdb:unredacted.org](https://matrix.to/#/#stash-fansdb:unredacted.org){:target="_blank"}|
-|Content|Clips from amateur subscription platforms, including OnlyFans.|
+|Homepage|[https://fansdb.cc/](https://fansdb.cc/){:target="_blank"}|
+|Guidelines|[https://docs.fansdb.cc/](https://docs.fansdb.cc/){:target="_blank"}|
+|Endpoint|[https://fansdb.cc/graphql](https://fansdb.cc/graphql){:target="_blank"}|
+|Discord|[https://discord.gg/RcNgXPqd49](https://discord.gg/RcNgXPqd49){:target="_blank"}|
+|Content|Adult platforms where the independent creators are the primary focus.|
 
 ### Accessing FansDB
 {: .no_toc }
 
-1. Apply for an invite token, see details below.
-1. Register an account at [https://fansdb.xyz/register](https://fansdb.xyz/register){:target="_blank"}
+1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/YfCcSl4CTKvvNyMyAS17YdEy2VRNOLP-zKLZ2kcUdrU/){:target="_blank"}
+1. Register an account at [https://fansdb.cc/register](https://fansdb.cc/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above
 
-At the moment FansDB is invite only, but applications are now open for early birds who want to help jumpstart the database. Read the [guidelines](https://docs.fansdb.xyz){:target="_blank"} and [apply here](https://cryptpad.fr/form/#/2/form/view/akRPLRKcrUvx0ydSwOPGWlnq5bSlpJQpLrTGTrjgTeE/){:target="_blank"}.
-
-For more details, check out the **#fansdb** channel on Discord or the **#stash-fansdb:unredacted.org** room on Matrix.
+For more details, check out the **#welcome** channel on Discord.

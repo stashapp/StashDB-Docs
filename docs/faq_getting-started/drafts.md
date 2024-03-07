@@ -32,4 +32,4 @@ parent: FAQ / Getting Started
 ### [Submit from Stash](submit-from-stash)
 
 {: .important }
-**Can create/update scenes and performers, but be sure to look on StashDB first and to generate PHashes.** *[See more...](submit-from-stash)*
+**Can create/update scenes and performers, but be sure to look on StashDB first and to generate pHashes.** *[See more...](submit-from-stash)*

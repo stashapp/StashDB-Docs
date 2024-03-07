@@ -32,7 +32,7 @@ parent: FAQ / Getting Started
 ### [Duplicate Scenes](duplicate-scenes)
 
 {: .important }
-**Search using keywords, filters, and PHashes.** *[See more...](duplicate-scenes)*
+**Search using keywords, filters, and pHashes.** *[See more...](duplicate-scenes)*
 
 
 ### [Check Performers](check-performers)

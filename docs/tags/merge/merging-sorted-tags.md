@@ -13,7 +13,7 @@ grand_parent: Tags
 
 ---
 
-If a tag has already been assigned a description, then it has already been organized by another editor. These can be considered ["sorted" tags]({{ site.baseurl }}/docs/faq_getting-started/tags/sorted-vs-unsorted-tags/). It could be used as a merge target, but shouldn't be considered eligible to be deleted or merged into something else at this time. If you feel you've found an exception to this, please ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/) first.
+If a tag has already been assigned a description, then it has already been organized by another editor. These can be considered ["sorted" tags]({{ site.baseurl }}/docs/faq_getting-started/tags/sorted-vs-unsorted-tags/). It could be used as a merge target, but shouldn't be considered eligible to be deleted or merged into something else at this time. If you feel you've found an exception to this, please ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-discord-and-matrix/) first.
 
 {: .note }
 Unconfirmed guideline, subject to change pending formal approval.

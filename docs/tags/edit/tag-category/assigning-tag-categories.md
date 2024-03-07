@@ -13,4 +13,4 @@ grand_parent: Edit Tags
 
 ---
 
-If the tag you're editing doesn't have a category yet, try to assign one in the same edit. This shows that somebody has handled a tag, [marking it as "sorted"]({{ site.baseurl }}/docs/faq_getting-started/tags/sorted-vs-unsorted-tags/) to some extent. Categories are easy to correct afterwards, so don't worry about guessing. Also feel free to ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-our-discord/) for clarification.
+If the tag you're editing doesn't have a category yet, try to assign one in the same edit. This shows that somebody has handled a tag, [marking it as "sorted"]({{ site.baseurl }}/docs/faq_getting-started/tags/sorted-vs-unsorted-tags/) to some extent. Categories are easy to correct afterwards, so don't worry about guessing. Also feel free to ask in the **#ministry-of-truth** channel on [Discord]({{ site.baseurl }}/docs/faq_getting-started/stashdb/joining-discord-and-matrix/) for clarification.

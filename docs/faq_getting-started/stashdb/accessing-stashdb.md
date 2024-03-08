@@ -34,7 +34,7 @@ New accounts start with READ access only. If you'd like to add or edit any data 
     - This email address will only be visible to StashDB admins. It will not be used as your username.
     - Do not forget it, you will need it if you ever need to reset your password. An admin may also ask you to provide this address if you need their help with your account.
 1. **Enter an active invite key**
-    - Copy and paste this entire code into the registration form: <br> `21e01328-3605-485d-9091-18ed4f7954ee` <br> It has a limited number of uses so it will be replaced periodically.
+    - Copy and paste this entire code into the registration form: <br> {% include invite-code.txt %} <br> It has a limited number of uses so it will be replaced periodically.
     - Invite codes will also be pinned to the [**#stashdb-invites** channel](https://discord.com/channels/559159668438728723/935614155107471442){:target="_blank"} on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} and in the [**StashDB - Invites** room topic](https://matrix.to/#/#stashdb-invites:unredacted.org){:target="_blank"} on [Matrix](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}.
     - If any of these codes have expired, please ask politely for it to be refreshed by pinging either **@AdultSun** on Discord or **@DogmaDragon** on Matrix in the appropriate channel/room. A few other elevated users can also generate invite codes if necessary.
 1. **Check for an email from StashDB and click the confirmation link**

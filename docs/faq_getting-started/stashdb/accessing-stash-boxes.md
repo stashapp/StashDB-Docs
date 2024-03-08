@@ -45,7 +45,10 @@ If you need a more detailed walkthrough on how to register an account with one o
 ### Accessing StashDB
 {: .no_toc }
 
-1. Grab an invite token from the [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) guide, the [**#stashdb-invites** channel](https://discord.com/channels/559159668438728723/935614155107471442){:target="_blank"} on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"}, or in the [**StashDB - Invites** room topic](https://matrix.to/#/#stashdb-invites:unredacted.org){:target="_blank"} on [Matrix](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}  <br> *(The guide page also contains more detailed instructions for registering an account and connecting it to your Stash.)*
+1. Copy this entire invite code: {% include invite-code.txt %}
+  - This same invite code is also available in the [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) guide along with more detailed instructions for registering an account and connecting it to your Stash.
+  - Two other codes are available in the [**#stashdb-invites** channel](https://discord.com/channels/559159668438728723/935614155107471442){:target="_blank"} on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} and in the [**StashDB - Invites** room topic](https://matrix.to/#/#stashdb-invites:unredacted.org){:target="_blank"} on [Matrix](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}
+  - Please contact **@AdultSun** on Discord or **@DogmaDragon** on Matrix if any of these codes have expired.
 1. Register an account at [https://stashdb.org/register](https://stashdb.org/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above

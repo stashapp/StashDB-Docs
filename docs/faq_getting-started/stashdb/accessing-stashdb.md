@@ -41,7 +41,8 @@ New accounts start with READ access only. If you'd like to add or edit any data 
     - Please wait a few minutes for it to arrive. If you still don't see it, try refreshing your inbox or checking your spam/junk folder.
     - The link will direct you to a webpage to *choose your username and password for the first time*. This is not a generic login page even though it may look like one. This has confused others before, so just keep going.
 1. **Choose your username**
-    - *Do not* enter your email address as your username here.
+    - Do *not* enter your email address as your username here.
+    - Avoid using special characters like `#` or `/` in your username. A bug in Stash-Box may break the link to your profile page.
     - Admins are able to change or lookup your username upon request.
     - If you plan on requesting edit access, please make sure your username in StashDB matches your display name in Discord/Matrix. See the [Contributing to StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/contributing-to-stashdb/) page for further details.
 1. **Choose your password**

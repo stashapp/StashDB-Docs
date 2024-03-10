@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What Makes StashDB Better?
-nav_order: 2
+nav_order: 7
 parent: 'StashDB'
 grand_parent: FAQ / Getting Started
 ---
@@ -9,7 +9,7 @@ grand_parent: FAQ / Getting Started
 # What Makes StashDB Better?
 
 {: .important }
-**Full integration with Stash and improved scene matching using various fingerprints (PHashes).**
+**Full integration with Stash and improved scene matching using various fingerprints (pHashes).**
 
 ---
 

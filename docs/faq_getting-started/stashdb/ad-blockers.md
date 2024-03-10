@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ad Blockers
-nav_order: 12
+nav_order: 13
 parent: 'StashDB'
 grand_parent: FAQ / Getting Started
 ---

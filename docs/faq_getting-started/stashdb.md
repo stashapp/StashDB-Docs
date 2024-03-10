@@ -29,22 +29,10 @@ parent: FAQ / Getting Started
 
 ***
 
-### [What is StashDB?](what-is-stashdb)
+### [Accessing StashDB](accessing-stashdb)
 
 {: .important }
-**Our shared database of scene, performer, and studio metadata. Does not host video files or unofficial download links.** *[See more...](what-is-stashdb)*
-
-
-### [What Makes StashDB Better?](what-makes-stashdb-better)
-
-{: .important }
-**Full integration with Stash and improved scene matching using various fingerprints (PHashes).** *[See more...](what-makes-stashdb-better)*
-
-
-### [Joining Our Discord](joining-our-discord)
-
-{: .important }
-**Necessary for accessing StashDB, click link for details.** *[See more...](joining-our-discord)*
+**Details on joining StashDB and connecting it to Stash.** *[See more...](accessing-stashdb)*
 
 
 ### [Accessing Stash-Boxes](accessing-stash-boxes)
@@ -59,7 +47,31 @@ parent: FAQ / Getting Started
 **Tagger Views are recommended for pulling info from StashDB, Identify task is faster but less accurate.** *[See more...](using-stashdb)*
 
 
-### [What's a PHash?](whats-a-phash)
+### [Contributing to StashDB](contributing-to-stashdb)
+
+{: .important }
+**Submitting fingerprints is possible with every account but adding/editing anything else requires new permissions, click link for details.** *[See more...](contributing-to-stashdb)*
+
+
+### [Joining Discord and Matrix](joining-discord-and-matrix)
+
+{: .important }
+**Necessary for gaining edit access to StashDB, click link for details.** *[See more...](joining-discord-and-matrix)*
+
+
+### [What is StashDB?](what-is-stashdb)
+
+{: .important }
+**Our shared database of scene, performer, and studio metadata. Does not host video files or unofficial download links.** *[See more...](what-is-stashdb)*
+
+
+### [What Makes StashDB Better?](what-makes-stashdb-better)
+
+{: .important }
+**Full integration with Stash and improved scene matching using various fingerprints (pHashes).** *[See more...](what-makes-stashdb-better)*
+
+
+### [What's a pHash?](whats-a-phash)
 
 {: .important }
 **Perceptual hashes are generated from what a video looks like, allowing for more reliable scene matching with StashDB.** *[See more...](whats-a-phash)*
@@ -69,12 +81,6 @@ parent: FAQ / Getting Started
 
 {: .important }
 **Unique ID for entries in StashDB, found at the end of URLs and saved to Stash after a match.** *[See more...](whats-a-stashid)*
-
-
-### [Contributing to StashDB](contributing-to-stashdb)
-
-{: .important }
-**Submitting fingerprints is possible with every account but any other edit/submission requires new permissions, details found on Discord pinned to #stashdb-invites.** *[See more...](contributing-to-stashdb)*
 
 
 ### [Unconfirmed Guidelines](unconfirmed-guidelines)

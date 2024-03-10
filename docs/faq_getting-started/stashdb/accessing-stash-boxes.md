@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessing Stash-Boxes
-nav_order: 4
+nav_order: 2
 has_toc: true
 parent: 'StashDB'
 grand_parent: FAQ / Getting Started
@@ -15,7 +15,9 @@ grand_parent: FAQ / Getting Started
 
 ---
 
-Stash-Box is the name of the software developed alongside Stash that StashDB runs on. While StashDB's scope is somewhat limited out of necessity, there are a few other publicly availably Stash-Boxes run by others outside of the Stash team. These other Stash-Boxes are still compatible with Stash. Details for all known public Stash-Boxes (including StashDB) are listed here.
+Stash-Box is the name of the software running underneath StashDB. It is developed alongside Stash and allows for more advanced and convenient ways to share data between local collections and these collaborative databases. While StashDB's scope is somewhat limited out of necessity, there are a few other publicly availably Stash-Boxes run by others outside of the Stash team. These other Stash-Boxes are still compatible with Stash. Details for all known public Stash-Boxes (including StashDB) are listed here.
+
+If you need a more detailed walkthrough on how to register an account with one of these Stash-Boxes or how to connect that new account to your local Stash, please read the guide on [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/). Many details are specific to StashDB.org, but the process will be very similar for every Stash-Box. You'll just need to check the relevant table below to find your specific Stash-Box's homepage, invite code, and endpoint.
 
 ---
 
@@ -43,7 +45,10 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 ### Accessing StashDB
 {: .no_toc }
 
-1. Grab an invite token from the **#stashdb-invites** channel of our [Discord server](https://discord.com/invite/2TsNFKt){:target="_blank"} <br> *(The pinned messages of this channel also contain detailed instructions.)*
+1. Copy this entire invite code: {% include invite-code.txt %}
+  - This same invite code is also available in the [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) guide along with more detailed instructions for registering an account and connecting it to your Stash.
+  - Two other codes are available in the [**#stashdb-invites** channel](https://discord.com/channels/559159668438728723/935614155107471442){:target="_blank"} on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} and in the [**StashDB - Invites** room topic](https://matrix.to/#/#stashdb-invites:unredacted.org){:target="_blank"} on [Matrix](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}
+  - Please contact **@AdultSun** on Discord or **@DogmaDragon** on Matrix if any of these codes have expired.
 1. Register an account at [https://stashdb.org/register](https://stashdb.org/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above
@@ -51,16 +56,16 @@ Stash-Box is the name of the software developed alongside Stash that StashDB run
 ## ThePornDB
 
 |-|-|
-|Homepage|[https://metadataapi.net/](https://metadataapi.net/){:target="_blank"}|
-|Endpoint|[https://metadataapi.net/graphql](https://metadataapi.net/graphql){:target="_blank"}|
+|Homepage|[https://theporndb.net/](https://theporndb.net/){:target="_blank"}|
+|Endpoint|[https://theporndb.net/graphql](https://theporndb.net/graphql){:target="_blank"}|
 |Discord|[https://discord.com/invite/XpSGpaB](https://discord.com/invite/XpSGpaB){:target="_blank"}|
 |Content|Digital scenes and movies, relying on automated scrapers.|
 
 ### Accessing TPDB's Stash-Box
 {: .no_toc }
 
-1. Register an account at [https://metadataapi.net/register](https://metadataapi.net/register){:target="_blank"}
-1. Generate an API token at [https://metadataapi.net/user/api-tokens](https://metadataapi.net/user/api-tokens){:target="_blank"}
+1. Register an account at [https://theporndb.net/register](https://theporndb.net/register){:target="_blank"}
+1. Generate an API token at [https://theporndb.net/user/api-tokens](https://theporndb.net/user/api-tokens){:target="_blank"}
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above
 
 ## PMV Stash

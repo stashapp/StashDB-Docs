@@ -15,7 +15,7 @@ grand_parent: FAQ / Getting Started
 
 ---
 
-Stash-Box is the name of the software developed alongside Stash that StashDB runs on. While StashDB's scope is somewhat limited out of necessity, there are a few other publicly availably Stash-Boxes run by others outside of the Stash team. These other Stash-Boxes are still compatible with Stash. Details for all known public Stash-Boxes (including StashDB) are listed here.
+Stash-Box is the name of the software running underneath StashDB. It is developed alongside Stash and allows for more advanced and convenient ways to share data between local collections and these collaborative databases. While StashDB's scope is somewhat limited out of necessity, there are a few other publicly availably Stash-Boxes run by others outside of the Stash team. These other Stash-Boxes are still compatible with Stash. Details for all known public Stash-Boxes (including StashDB) are listed here.
 
 If you need a more detailed walkthrough on how to register an account with one of these Stash-Boxes or how to connect that new account to your local Stash, please read the guide on [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/). Many details are specific to StashDB.org, but the process will be very similar for every Stash-Box. You'll just need to check the relevant table below to find your specific Stash-Box's homepage, invite code, and endpoint.
 

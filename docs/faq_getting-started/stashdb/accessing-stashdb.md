@@ -44,7 +44,7 @@ New accounts start with READ access only. If you'd like to add or edit any data 
 1. **Choose your username**
     - Do *not* enter your email address as your username here.
     - Avoid using special characters like `#` or `/` in your username. A bug in Stash-Box may break the link to your profile page.
-    - Admins are able to change or lookup your username upon request.
+    - Admins are able to change or lookup your username upon request. Contact an admin (preferably **@AdultSun** on Discord) and provide your email address in a DM to verify your account.
     - If you plan on requesting edit access, please make sure your username in StashDB matches your display name in Discord/Matrix. See the [Contributing to StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/contributing-to-stashdb/) page for further details.
 1. **Choose your password**
     - Must be at least 8 characters long while avoiding "common" passwords.

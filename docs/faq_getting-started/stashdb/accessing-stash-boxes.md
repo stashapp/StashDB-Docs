@@ -79,7 +79,7 @@ If you need a more detailed walkthrough on how to register an account with one o
 ### Accessing PMV Stash
 {: .no_toc }
 
-1. Grab an invite token from the **#welcome** channel of their [Discord server](https://discord.com/invite/GQbeYVBYQ4){:target="_blank"}
+1. Grab the invite code from [https://blog.pmvstash.org](https://blog.pmvstash.org){:target="_blank"} 
 1. Register an account at [https://pmvstash.org/register](https://pmvstash.org/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above

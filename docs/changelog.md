@@ -21,6 +21,13 @@ Everything here is listed in reverse chronological order with the most recent up
 
 ***
 
+## 2024
+
+### October 2024
+- Add "Disallowing Personal Performer Links" by [@SpedNSFW]{:target="_blank"} in [PR #73]{:target="_blank"} and [approved in this thread on Discord](https://discord.com/channels/559159668438728723/1287756068335915089){:target="_blank"}
+
+[PR #73]: https://github.com/stashapp/StashDB-Docs/pull/73
+
 ## 2023
 
 ### November 2023
@@ -68,3 +75,4 @@ Everything here is listed in reverse chronological order with the most recent up
 
 [@AdultSun]: https://github.com/stashapp/StashDB-Docs/commits?author=AdultSun
 [@DogmaDragon]: https://github.com/stashapp/StashDB-Docs/commits?author=DogmaDragon
+[@SpedNSFW]: https://github.com/stashapp/StashDB-Docs/commits?author=SpedNSFW

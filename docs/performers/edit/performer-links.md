@@ -6,7 +6,6 @@ has_children: true
 has_toc: false
 parent: Edit Performers
 grand_parent: Performers
-published: false
 ---
 
 # Performer Links
@@ -31,7 +30,7 @@ published: false
 
 ***
 
-### [Section Name](section-name)
+### [Personal Links](personal-links)
 
 {: .important }
-**One sentence summary.** *[See more...](section-name)*
+**Links to personal accounts of performers not associated to their professional career are disallowed.** *[See more...](personal-links)*

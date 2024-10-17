@@ -6,7 +6,6 @@ has_children: true
 has_toc: false
 parent: Edit Performers
 grand_parent: Performers
-published: false
 ---
 
 # Gender
@@ -31,7 +30,7 @@ published: false
 
 ***
 
-### [Section Name](section-name)
+### [Performer Self-Identity](self-identity)
 
 {: .important }
-**One sentence summary.** *[See more...](section-name)*
+**In the case a performer's self-identity doesn't match how they present professionally, prefer their self-identity.** *[See more...](self-identity)*

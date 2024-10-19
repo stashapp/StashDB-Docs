@@ -14,4 +14,6 @@ grand_parent: Edit Performers
 
 ---
 
-When a performer identifies as a gender that doesn't align with how they present professionally, use their self-identity. An example of how this may arise is if a performer who professionally works as a female, identifies as non-binary personally.
+When a performer's gender identity differs from their professional designation, preference is given to their self-identity.
+
+One example would be a professionally designated female performer self-identifying as non-binary. In this case, non-binary would be the preferred designation for this performer.

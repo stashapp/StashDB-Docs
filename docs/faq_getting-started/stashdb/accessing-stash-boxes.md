@@ -96,7 +96,7 @@ If you need a more detailed walkthrough on how to register an account with one o
 ### Accessing FansDB
 {: .no_toc }
 
-1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/YfCcSl4CTKvvNyMyAS17YdEy2VRNOLP-zKLZ2kcUdrU/){:target="_blank"}
+1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/RVkCo6oH3uY53GDaHkbevathvxzgyrxRcijr6cfNNe0/){:target="_blank"}
 1. Register an account at [https://fansdb.cc/register](https://fansdb.cc/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above

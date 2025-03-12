@@ -142,8 +142,8 @@ At the discretion of the admins, your edit access may be revoked at any time. Ho
 
 ## Submitting Your Request
 
-Requesting edit access is not difficult. **After you've read and followed all of the instructions above**, log into Discourse and click the link at the bottom of this page. Then, click the "Request" button in the top right corner of the page. The application form will pop up. Make sure to answer all 10 questions in the request form, but please keep your answers brief. Double-check your answers and click "Submit Request" once you're finished. An admin will review your application shortly, usually within a day or two. You will see their response as a notification within Discourse.
+Requesting edit access is not difficult. **After you've read and followed all of the instructions above**, click the link at the bottom of this page named "APPLICATION FORM" and log into Discourse. Then, click the "Request" button in the top right corner of the page. The application form will pop up. Make sure to answer all 10 questions in the request form, but please keep your answers brief. Double-check your answers and click "Submit Request" once you're finished. An admin will review your application shortly, usually within a day or two. You will see their response as a notification within Discourse.
 
 If you fail to follow **any part** of these instructions, your application may be rejected. Most likely, an admin will direct you back to this article. If you would like to try again, you must first carefully re-read the entire article to find what requirement you may have missed, however small it may seem. You may submit a new request no sooner than 24 hours after your previous one.
 
-https://discourse.stashapp.cc/g/stashdb_editors
+[APPLICATION FORM](https://discourse.stashapp.cc/g/stashdb_editors){:target="_blank"}

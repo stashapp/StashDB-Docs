@@ -24,6 +24,8 @@ The process for gaining edit access is simple. First, you must read this **entir
 
 First, make sure you have an account on **StashDB.org**. There are other public stash-boxes that look very similar, but those are all hosted separately and require different accounts. We can't apply the EDIT role to an account that doesn't exist yet. Please see our guide to [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) if you need any help finding an invite code, registering an account, or connecting it to Stash.
 
+---
+
 ## Make a Discourse Account
 
 You will also be **required to join our Discourse server**. This is the home to Stash's forums and will be the primary method for editors, mods, and admins to communicate with each other. You will also use Discourse to submit your request for edit access.
@@ -33,6 +35,8 @@ You may also [join our Discord]({{ site.baseurl }}/docs/faq_getting-started/stas
 **For Discord users**, we require your nickname (also called "display name") in our server to match your StashDB username. You can either [go to your user settings](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames){:target="_blank"} or type the shortcut `/nick <your-new-username>` into any channel of Stash's Discord server. This will only change the name displayed inside of Stash's Discord and not anywhere else. You may also request an admin to change your StashDB username instead (see below).
 
 If you would like to **change your StashDB username**, please contact a StashDB admin on Discourse/Discord (preferably **@AdultSun**) and ask them politely to change it for you. You may be asked to DM the email address you used to join StashDB in order for the admin to verify your account. If there is any concern about your username, an admin may ask you to pick a different one before granting edit access.
+
+---
 
 ## Guidelines Summary
 
@@ -95,6 +99,8 @@ The underlying Stash-Box software will automatically warn you of any duplicates 
 ### **Familiarize yourself with our disciplinary process.**
 
 At the discretion of the admins, your edit access may be revoked at any time. However, this is rare and usually comes with an official warning first. Always act with the best interests of the community in mind. Make your best effort to follow the guidelines, correcting any mistakes when asked. Remain civil and constructive in all communications. If you can do that, you'll be fine. Our article explaining [StashDB Moderation Enforcement]({{ site.baseurl }}/docs/faq_getting-started/edits/moderation-enforcement/) details what behaviors may result in disciplinary action. It also addresses how and when edit access may be restored.
+
+---
 
 ## Submitting Your Request
 

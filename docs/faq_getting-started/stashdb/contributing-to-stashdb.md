@@ -35,7 +35,8 @@ First, make sure you have an account on **StashDB.org**. It's easy to confuse it
 
 All editors are **required to join our Discourse server**. This is the home to Stash's forums and will be the primary method for editors, mods, and admins to communicate with each other. You will also use Discourse to submit your request for edit access. The website can be found here:
 
-[https://discourse.stashapp.cc/](https://discourse.stashapp.cc/){:target="_blank" .btn .btn-blue }
+{: .important }
+[https://discourse.stashapp.cc/](https://discourse.stashapp.cc/){:target="_blank"}
 
 ### Filling out your Discourse profile
 
@@ -67,11 +68,11 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 ### 1.) Start slowly.
 
-> {: .note-title }
-> > Important!
-> >
-> > **Do not start by submitting 20+ edits immediately after gaining edit access. Repeated guideline violations and bulk submissions without permission can result in the loss of edit privileges.**
-> 
+{: .note-title }
+> Important!
+>
+> **Do not start by submitting 20+ edits immediately after gaining edit access. Repeated guideline violations and bulk submissions without permission can result in the loss of edit privileges.**
+
 > Take your time, try to keep your first submissions simple and small, and leave only a few edits pending at a time. Double-check the guidelines or ask on Discourse/Discord if you have any questions. And *always* keep an eye on the notifications bell for any comments or downvotes.
 > 
 > Everything you submit will sit in the edit queue where other editors can review them, voting for either approval or rejection. Everything goes much quicker and smoother when pending edits don't need any corrections. So, be patient and give yourself time to learn the ropes.
@@ -95,31 +96,31 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 ### 1.) No underage performers.
 
 > Any content including underage performers will never be allowed on StashDB. We ensure this by only allowing scenes from performers, studios, and platforms that follow age verification laws. These requirements are detailed in [Performer Eligibility]({{ site.baseurl }}/docs/performers/create/performer-eligibility/).
-> 
-> {: .note-title }
-> > Important!
-> >
-> > **If you see any underage content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+
+{: .note-title }
+> Important!
+>
+> **If you see any underage content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
 ### 2.) No banned studios.
 
 > In rare circumstances, StashDB admins may ban specific studios based on legality and consent. Anything from a studio with a pattern of violating their performers' consent (i.e., Girls Do Porn) is not allowed. All specific bans will be listed under [Banned Studios]({{ site.baseurl }}/docs/studios/create/banned-studios/). This list may expand over time.
-> 
-> {: .note-title }
-> > Important!
-> >
-> > **If you see any banned content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+
+{: .note-title }
+> Important!
+>
+> **If you see any banned content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
 ### 3.) No ineligible performer aliases.
 
 > All performer names and aliases must be used as an official adult credit in order to be eligible. This means that any legal names or given names cannot be included as an alias just because it is publically known, reported, or even revealed by performers themselves.
 > 
 > These requirements are explained in more detail in [Eligible Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/eligible-aliases/). To be safe, do not add any [Suspicious Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/suspicious-aliases/) that cannot be verified as eligible.
-> 
-> {: .note-title }
-> > Important!
-> >
-> > **If you see a suspicious name on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+
+{: .note-title }
+> Important!
+>
+> **If you see a suspicious name on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
 ---
 

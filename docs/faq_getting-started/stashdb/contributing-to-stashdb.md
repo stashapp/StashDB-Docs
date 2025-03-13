@@ -35,7 +35,7 @@ First, make sure you have an account on **StashDB.org**. It's easy to confuse it
 
 All editors are **required to join our Discourse server**. This is the home to Stash's forums and will be the primary method for editors, mods, and admins to communicate with each other. You will also use Discourse to submit your request for edit access. The website can be found here:
 
-[https://discourse.stashapp.cc/](https://discourse.stashapp.cc/){:target="_blank" .btn }
+[https://discourse.stashapp.cc/](https://discourse.stashapp.cc/){:target="_blank" .btn .btn-blue }
 
 ### Filling out your Discourse profile
 
@@ -48,18 +48,18 @@ If you've already created an account, you'll have to dig into your settings to a
 ### Requirements for StashDB editors:
 
 - You must add your **StashDB username** to your Discourse profile.
+    - If you want to change your StashDB username, you can ask for a new one within the edit request form. If that's the case, add your new StashDB username to Discourse **before submitting your edit request**.
 - If you've joined any other public stash-boxes, please add those usernames as well.
 - If you've joined the Stash Discord server, please add your **server nickname** (also called **display name**).
     - Editors are **not required** to join Discord.
     - Editors are **not required** to "Log in with Discord" or "Connect" Discord to their account.
 - We recommend that your name on StashDB, Discourse, and Discord all match in order to limit confusion.
-- If you want to change your StashDB username, you can ask for a new one within the edit request form.
 
 ---
 
 # Guidelines Summary
 
-All editors of StashDB are expected to follow our guidelines to ensure a high level of quality in their submissions. You are **not** expected to memorize all of them right away. However, you **must** be familiar with the following list of guidelines **before submitting your request for edit access**. Read each section closely --- even if you think the topic is irrelevant to you --- before moving on to the next part of this article. If you'd like to learn more, further information can be found by clicking the hyperlinks within each section.
+All editors of StashDB are expected to follow our guidelines to ensure a high level of quality in their submissions. You are **not** expected to memorize all of them right away. However, you **must** be familiar with the following list of guidelines **before submitting your request for edit access**. Read each section closely and carefully --- even if you think the topic is irrelevant to you --- before moving on to the next part of this article. If you'd like to learn more, further information can be found by clicking the hyperlinks within each section.
 
 ---
 
@@ -67,7 +67,7 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 ### 1.) Start slowly.
 
-> {: .note }
+> {: .note-title }
 > > Important!
 > >
 > > **Do not start by submitting 20+ edits immediately after gaining edit access. Repeated guideline violations and bulk submissions without permission can result in the loss of edit privileges.**
@@ -96,7 +96,7 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 > Any content including underage performers will never be allowed on StashDB. We ensure this by only allowing scenes from performers, studios, and platforms that follow age verification laws. These requirements are detailed in [Performer Eligibility]({{ site.baseurl }}/docs/performers/create/performer-eligibility/).
 > 
-> {: .note }
+> {: .note-title }
 > > Important!
 > >
 > > **If you see any underage content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
@@ -105,7 +105,7 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 > In rare circumstances, StashDB admins may ban specific studios based on legality and consent. Anything from a studio with a pattern of violating their performers' consent (i.e., Girls Do Porn) is not allowed. All specific bans will be listed under [Banned Studios]({{ site.baseurl }}/docs/studios/create/banned-studios/). This list may expand over time.
 > 
-> {: .note }
+> {: .note-title }
 > > Important!
 > >
 > > **If you see any banned content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
@@ -116,7 +116,7 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 > 
 > These requirements are explained in more detail in [Eligible Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/eligible-aliases/). To be safe, do not add any [Suspicious Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/suspicious-aliases/) that cannot be verified as eligible.
 > 
-> {: .note }
+> {: .note-title }
 > > Important!
 > >
 > > **If you see a suspicious name on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
@@ -177,19 +177,19 @@ Always act with the best interests of the community in mind. Make your best effo
 
 Our article explaining [StashDB Moderation Enforcement]({{ site.baseurl }}/docs/faq_getting-started/edits/moderation-enforcement/) details what behaviors may result in disciplinary action. It also addresses how and when edit access may be restored.
 
-{: .note }
+{: .note-title }
 > Important!
 >
 > **If you see any behavior that should result in the loss of edit access, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
 ---
 
-## Submitting Your Request
+# Submitting Your Request
 
 Requesting edit access is not difficult. **After you've read and followed all of the instructions above**, click the button at the bottom of this page. Then, click the "Request" button in the top-right corner. Make sure to fill out the entire form, but please keep your answers brief.
 
 An admin will review your application shortly, usually within a day or two. You will see their response as a notification within Discourse.
 
-If you fail to follow **any part** of these instructions, your application may be rejected. If you would like to try again, you must first carefully re-read this **entire** article. Make sure you follow every instruction to the letter, however insignificant it may seem. You may submit a new request no sooner than 1 hour after your previous one.
+If you fail to follow **any part** of these instructions, your application may be rejected. If you would like to try again, first re-read this **entire** article closely and carefully. Make sure you follow every instruction to the letter, however insignificant it may seem. You may submit a new request no sooner than 1 hour after your previous one.
 
 [APPLICATION FORM](https://discourse.stashapp.cc/g/stashdb_editors){:target="_blank" .btn .btn-blue }

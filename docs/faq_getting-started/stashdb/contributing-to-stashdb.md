@@ -95,32 +95,32 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 ### 1.) No underage performers.
 
-> Any content including underage performers will never be allowed on StashDB. We ensure this by only allowing scenes from performers, studios, and platforms that follow age verification laws. These requirements are detailed in [Performer Eligibility]({{ site.baseurl }}/docs/performers/create/performer-eligibility/).
-
 {: .note-title }
 > Important!
 >
 > **If you see any underage content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
-### 2.) No banned studios.
+> Any content including underage performers will never be allowed on StashDB. We ensure this by only allowing scenes from performers, studios, and platforms that follow age verification laws. These requirements are detailed in [Performer Eligibility]({{ site.baseurl }}/docs/performers/create/performer-eligibility/).
 
-> In rare circumstances, StashDB admins may ban specific studios based on legality and consent. Anything from a studio with a pattern of violating their performers' consent (i.e., Girls Do Porn) is not allowed. All specific bans will be listed under [Banned Studios]({{ site.baseurl }}/docs/studios/create/banned-studios/). This list may expand over time.
+### 2.) No banned studios.
 
 {: .note-title }
 > Important!
 >
 > **If you see any banned content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
-### 3.) No ineligible performer aliases.
+> In rare circumstances, StashDB admins may ban specific studios based on legality and consent. Anything from a studio with a pattern of violating their performers' consent (i.e., Girls Do Porn) is not allowed. All specific bans will be listed under [Banned Studios]({{ site.baseurl }}/docs/studios/create/banned-studios/). This list may expand over time.
 
-> All performer names and aliases must be used as an official adult credit in order to be eligible. This means that any legal names or given names cannot be included as an alias just because it is publically known, reported, or even revealed by performers themselves.
-> 
-> These requirements are explained in more detail in [Eligible Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/eligible-aliases/). To be safe, do not add any [Suspicious Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/suspicious-aliases/) that cannot be verified as eligible.
+### 3.) No ineligible performer aliases.
 
 {: .note-title }
 > Important!
 >
 > **If you see a suspicious name on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+
+> All performer names and aliases must be used as an official adult credit in order to be eligible. This means that any legal names or given names cannot be included as an alias just because it is publically known, reported, or even revealed by performers themselves.
+> 
+> These requirements are explained in more detail in [Eligible Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/eligible-aliases/). To be safe, do not add any [Suspicious Aliases]({{ site.baseurl }}/docs/performers/edit/performer-aliases/suspicious-aliases/) that cannot be verified as eligible.
 
 ---
 
@@ -172,16 +172,16 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 ## Moderation and Enforcement
 
+{: .note-title }
+> Important!
+>
+> **If you see any behavior that should result in the loss of edit access, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+
 At the discretion of the admins, your edit access may be revoked at any time. However, this is rare and usually comes with an official warning first.
 
 Always act with the best interests of the community in mind. Make your best effort to follow the guidelines, correcting any mistakes when asked. Remain civil and constructive in all communications. If you can do that, you'll be fine.
 
 Our article explaining [StashDB Moderation Enforcement]({{ site.baseurl }}/docs/faq_getting-started/edits/moderation-enforcement/) details what behaviors may result in disciplinary action. It also addresses how and when edit access may be restored.
-
-{: .note-title }
-> Important!
->
-> **If you see any behavior that should result in the loss of edit access, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
 
 ---
 

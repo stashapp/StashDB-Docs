@@ -137,7 +137,7 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 ### 10. Exceptions for amateur content.
 
 > All amateur scenes must use the creator as its studio, not the platform. Also, only certain amateur platforms (ManyVids, Clips4Sale, PornHub, MFC Share, etc.) are allowed. Paywalled subscription services (OnlyFans, Just for Fans, Patreon, etc.) are not allowed. Eligibility for amateur content is explained further in [Amateur Studios]({{ site.baseurl }}/docs/studios/create/amateur-studios/).
-
+>
 > Also note that a single scene entry on StashDB may be used to cover multiple platforms, as explained in [Remasters, Redistributions, and Re-Releases]({{ site.baseurl }}/docs/scenes/create/re-releases/).
 
 ### 11. Exceptions for JAV content.
@@ -174,8 +174,8 @@ If you are aware of any behavior that you believe would justify revoking someone
 
 ## Submitting Your Request
 
-Requesting edit access is not difficult. **After you've read and followed all of the instructions above**, click the link at the bottom of this page named "APPLICATION FORM". Then, click the "Request" button in the top-right corner of the page. Make sure to fill out the entire form, but please keep your answers brief. An admin will review your application shortly, usually within a day or two. You will see their response as a notification within Discourse.
+Requesting edit access is not difficult. **After you've read and followed all of the instructions above**, click the button at the bottom of this page. Then, click the "Request" button in the top-right corner. Make sure to fill out the entire form, but please keep your answers brief. An admin will review your application shortly, usually within a day or two. You will see their response as a notification within Discourse.
 
 If you fail to follow **any part** of these instructions, your application may be rejected. If you would like to try again, you must first carefully re-read this **entire** article to find what requirement you may have missed, however small it may seem. You may submit a new request no sooner than 24 hours after your previous one.
 
-[APPLICATION FORM](https://discourse.stashapp.cc/g/stashdb_editors){: .btn .btn-blue }
+[APPLICATION FORM](https://discourse.stashapp.cc/g/stashdb_editors){:target="_blank" .btn .btn-blue }

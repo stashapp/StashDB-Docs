@@ -158,9 +158,7 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 ---
 
-## Fair Warning
-
-### Moderation and enforcement.
+## Moderation and Enforcement
 
 At the discretion of the admins, your edit access may be revoked at any time. However, this is rare and usually comes with an official warning first.
 

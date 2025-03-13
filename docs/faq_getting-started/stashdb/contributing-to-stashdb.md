@@ -59,12 +59,13 @@ If you've already created an account, you'll have to dig into your settings to a
 
 ---
 
-## Guidelines Summary
+# Guidelines Summary
 
 All editors of StashDB are expected to follow our guidelines to ensure a high level of quality in their submissions. This website is home to an extensive number of requirements, recommendations, tips, and guides. You are **not** expected to memorize all of them right away. However, you **must** be familiar with the following list of guidelines **before submitting your request for edit access**. Read each section closely --- even if you think the topic is irrelevant to you --- before moving on to the next part of this article. If you'd like to learn more, further information can be found by clicking the hyperlinks to other articles.
 
-{: .highlight }
-Basic Procedure
+---
+
+## Basic Procedure
 
 ### **1.** Start slowly.
 
@@ -87,8 +88,9 @@ Fortunately, most edits are relatively straightforward and only use a single sou
 
 If you made a mistake or missed an important piece of information, another editor may downvote your edit and explain why in a comment. These will appear as notifications in the navigation bar across the top of StashDB. When this happens, you are expected to update your edit with the required changes. This will reset the current vote total and notify all commenters and voters of the update.
 
-{: .highlight }
-Banned Content
+---
+
+## Banned Content
 
 ### **4.** No underage performers.
 
@@ -110,8 +112,7 @@ These requirements are explained in more detail in [Eligible Aliases]({{ site.ba
 
 If you see a suspicious name on StashDB, please DM an admin immediately.
 
-{: .highlight }
-Common Mistakes
+## Common Mistakes
 
 ### **7.** Review your drafts.
 
@@ -153,8 +154,7 @@ If the performer does not exist in the database already, they will need to be cr
 
 The underlying Stash-Box software will automatically warn you of any duplicates based on title/name and fingerprints, but this doesn't catch everything. A quick search with a few carefully chosen keywords only takes a few seconds and could save everyone a lot of wasted time and effort as a result.
 
-{: .highlight }
-Fair Warning
+## Fair Warning
 
 ### **14.** Moderation and enforcement.
 

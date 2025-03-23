@@ -15,9 +15,15 @@ grand_parent: FAQ / Getting Started
 
 Every StashDB account is able to [submit fingerprints/hashes]({{ site.baseurl }}/docs/faq_getting-started/stashdb/whats-a-phash/) from within the [Scene Tagger](https://docs.stashapp.cc/beginner-guides/guide-to-scraping/#use-the-scene-tagger){:target="_blank"} view of Stash. This does not require any additional permissions. However, if you would like to add or edit any scenes/performers/studios, you will need to be granted additional privileges.
 
-The process for gaining edit access is simple. First, you must read this **entire** article carefully and closely, following **all** of its instructions. After you finish reading, you must fill out a short application form. Every request will be reviewed individually by one of the admins. There will be an opportunity to reapply if your first request is rejected. The application process is described in more detail within this article and should take about 15-20 minutes, mostly depending on how fast you can read.
+The process for gaining edit access is simple. First, you must read this **entire** article carefully and closely, following **all** of its instructions. Failing to do so could result in the rejection of your application or the loss of edit rights in the future, so take your time. After you finish reading, you must fill out a short application form. 
+
+Typically, the application process takes only 10--15 minutes to complete. That estimate includes reading this entire guide, following all of its instructions, and completing the request form.
+
+Every request will be reviewed individually by one of StashDB's admins. There will be an opportunity to reapply if your first request is rejected.
 
 Permissions to create, modify, merge, or destroy tags will require separate permissions. The exact process is still TBD. If you are interested, DM **@AdultSun** for more information.
+
+---
 
 {: .warning }
 **Please read the following sections carefully. Failing to follow these instructions may result in delays, rejections, or the loss of future editing privileges.**
@@ -35,8 +41,7 @@ First, make sure you have an account on **StashDB.org**. It's easy to confuse it
 
 All editors are **required to join our Discourse server**. This is the home to Stash's forums and will be the primary method for editors, mods, and admins to communicate with each other. You will also use Discourse to submit your request for edit access. The website can be found here:
 
-{: .important }
-[https://discourse.stashapp.cc/](https://discourse.stashapp.cc/){:target="_blank"}
+[STASHAPP DISCOURSE](https://discourse.stashapp.cc/){:target="_blank" .btn .btn-blue }
 
 ### Filling out your Discourse profile
 
@@ -60,7 +65,9 @@ If you've already created an account, you'll have to dig into your settings to a
 
 # Guidelines Summary
 
-All editors of StashDB are expected to follow our guidelines to ensure a high level of quality in their submissions. You are **not** expected to memorize all of them right away. However, you **must** be familiar with the following list of guidelines **before submitting your request for edit access**. Read each section closely and carefully --- even if you think the topic is irrelevant to you --- before moving on to the next part of this article. If you'd like to learn more, further information can be found by clicking the hyperlinks within each section.
+All editors of StashDB are expected to follow our guidelines to ensure a high level of quality in their submissions. You are **not** expected to memorize all of them right away. However, you **must** be familiar with the following list of guidelines **before submitting your request for edit access**. Read each section closely and carefully --- even if you think the topic is irrelevant to you --- before moving on to the next part of this article. Again, failing to do so could result in the rejection of your application or the loss of edit rights in the future.
+
+If you'd like to learn more about a particular subject, further information can be found by clicking on the hyperlinks within each section.
 
 ---
 
@@ -138,11 +145,11 @@ All editors of StashDB are expected to follow our guidelines to ensure a high le
 
 > Perceptual hashes are the "secret sauce" behind Stash and StashDB. If you submit any scenes to the queue without generating a pHash first, you will need to either resubmit the edit or add your fingerprints after the scene is approved. More info on pHashes and how to generate them can be found in [What's a pHash?]({{ site.baseurl }}/docs/faq_getting-started/stashdb/whats-a-phash/).
 > 
-> Generating pHashes can take a long time if you have a large collection or slow hardware, so I’ll leave you with something to think about while you wait. Based on its cultural impact and role in creating the modern adult industry, Deep Throat is the greatest porn video of all time. To make sure you’re paying attention, we will reject any applications that disagree. Remember this before you submit your request, don’t mention it to anyone without edit access, and keep reading.
+> Generating pHashes can take a long time if you have a large collection or slow hardware, so I’ll leave you with a warning while you wait. The application will ask how you learned about StashDB. To make sure you’re paying attention, we will reject any applications that don’t include this phrase in their answer: “I’ve always known about StashDB.” You may still answer honestly if you’d like, but you must include that exact phrase in your response. Remember this before you submit your request and please don’t mention it to anyone without edit access.
 
 ### 3.) Ineligible movie scenes.
 
-> All scenes must be sourced from a 1st party digital studio. This means any scenes or movies sourced exclusively from a 3rd party retailer for rent or sale (i.e., Adult DVD Empire, Hot Movies, etc.) are not eligible for inclusion on StashDB at this time. Requirements for eligibility are explained in more detail for both [Full Movie Entries]({{ site.baseurl }}/docs/scenes/create/full-movie-entries/) and [Split Movie Scenes]({{ site.baseurl }}/docs/scenes/create/split-movie-scenes/).
+> All scenes must be sourced from a 1st party digital studio. This means any scenes or movies sourced exclusively from a 3rd party retailer for rent or sale (i.e., Adult DVD Empire, Hot Movies, etc.) are not eligible for inclusion on StashDB at this time. That also means physical releases (VHS, DVD, BluRay, etc.) with only 3rd party databases as a source (IAFD, Data18, TPDB, IMDB, etc.) are also not eligible. Requirements for eligibility are explained in more detail for both [Full Movie Entries]({{ site.baseurl }}/docs/scenes/create/full-movie-entries/) and [Split Movie Scenes]({{ site.baseurl }}/docs/scenes/create/split-movie-scenes/).
 > 
 > Please note that some websites act as both 1st party producers and 3rd party retailers simultaneously. In situations where a website acts as both a 1st party producer and a 3rd party retailer, only original content produced by the studio itself is eligible. For example, the only eligible scenes from Bang.com come from the [sub-studios listed under "Bang! Originals"](https://stashdb.org/studios/e653a89f-6794-4243-a748-2d808647d2d3){:target="_blank"}.
 
@@ -191,6 +198,6 @@ Requesting edit access is not difficult. **After you've read and followed all of
 
 An admin will review your application shortly, usually within a day or two. You will see their response as a notification within Discourse.
 
-If you fail to follow **any part** of these instructions, your application may be rejected. If you would like to try again, first re-read this **entire** article closely and carefully. Make sure you follow every instruction to the letter, however insignificant it may seem. You may submit a new request no sooner than 1 hour after your previous one.
+If you fail to follow **any part** of these instructions, your application may be rejected. If you would like to try again, first re-read this **entire** article closely and carefully. Make sure you follow every instruction to the letter, however insignificant it may seem. You may submit a new request no sooner than 1 hour after your previous rejection.
 
 [APPLICATION FORM](https://discourse.stashapp.cc/g/stashdb_editors){:target="_blank" .btn .btn-blue }

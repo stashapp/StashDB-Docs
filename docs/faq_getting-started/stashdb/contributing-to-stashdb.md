@@ -56,7 +56,7 @@ If you've already created an account, you'll have to dig into your settings to a
 - You must add your **StashDB username** to your Discourse profile.
     - If you want to change your StashDB username, you can ask for a new one within the edit request form. If that's the case, add your new StashDB username to Discourse **before submitting your edit request**.
 - If you've joined any other public stash-boxes, please add those usernames as well.
-- If you've joined the Stash Discord server, please add your **server nickname** (also called **display name**).
+- If you've joined the Stash Discord server, please add your **unique username** (not your **server nickname** or **display name**).
     - Editors are **not required** to join Discord.
     - Editors are **not required** to "Log in with Discord" or "Connect" Discord to their account.
 - We recommend that your name on StashDB, Discourse, and Discord all match in order to limit confusion.

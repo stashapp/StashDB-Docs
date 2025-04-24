@@ -38,8 +38,8 @@ If you need a more detailed walkthrough on how to register an account with one o
 |Homepage|[https://stashdb.org/](https://stashdb.org/){:target="_blank"}|
 |Guidelines|[https://guidelines.stashdb.org/](https://https://guidelines.stashdb.org/){:target="_blank"}|
 |Endpoint|[https://stashdb.org/graphql](https://stashdb.org/graphql){:target="_blank"}|
+|Discourse|[https://discourse.stashapp.cc/signup](https://discourse.stashapp.cc/signup){:target="_blank"}|
 |Discord|[https://discord.com/invite/2TsNFKt](https://discord.com/invite/2TsNFKt){:target="_blank"}|
-|Matrix|[https://matrix.to/#/#stashapp:unredacted.org](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}|
 |Content|Digital scenes of all orientations, relying on user submission and curation.|
 
 ### Accessing StashDB
@@ -47,8 +47,8 @@ If you need a more detailed walkthrough on how to register an account with one o
 
 1. Copy this entire invite code: {% include invite-code.txt %}
   - This same invite code is also available in the [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) guide along with more detailed instructions for registering an account and connecting it to your Stash.
-  - Two other codes are available in the [**#stashdb-invites** channel](https://discord.com/channels/559159668438728723/935614155107471442){:target="_blank"} on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} and in the [**StashDB - Invites** room topic](https://matrix.to/#/#stashdb-invites:unredacted.org){:target="_blank"} on [Matrix](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}
-  - Please contact **@AdultSun** on Discord or **@DogmaDragon** on Matrix if any of these codes have expired.
+  - Another code is available in the [How to Register on StashDB](https://discourse.stashapp.cc/t/how-to-register-on-stashdb/402){:target="_blank"} topic on [Discourse](https://discourse.stashapp.cc/signup){:target="_blank"}.
+  - If any of these codes have expired, please contact the StashDB admins using the "Message" button at the top of [this page in Discourse](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}. You may also contact **@AdultSun** on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} instead.
 1. Register an account at [https://stashdb.org/register](https://stashdb.org/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above

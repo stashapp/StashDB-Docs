@@ -46,9 +46,9 @@ If you need a more detailed walkthrough on how to register an account with one o
 {: .no_toc }
 
 1. Copy this entire invite code: {% include invite-code.txt %}
-  - This same invite code is also available in the [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) guide along with more detailed instructions for registering an account and connecting it to your Stash.
-  - Another code is available in the [How to Register on StashDB](https://discourse.stashapp.cc/t/how-to-register-on-stashdb/402){:target="_blank"} topic on [Discourse](https://discourse.stashapp.cc/signup){:target="_blank"}.
-  - If any of these codes have expired, please contact the StashDB admins using the "Message" button at the top of [this page in Discourse](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}. You may also contact **@AdultSun** on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} instead.
+    - This same invite code is also available in the [Accessing StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/accessing-stashdb/) guide along with more detailed instructions for registering an account and connecting it to your Stash.
+    - Another code is available in the [How to Register on StashDB](https://discourse.stashapp.cc/t/how-to-register-on-stashdb/402){:target="_blank"} topic on [Discourse](https://discourse.stashapp.cc/signup){:target="_blank"}.
+    - If any of these codes have expired, please contact the StashDB admins using the "Message" button at the top of [this page in Discourse](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}. You may also contact **@AdultSun** on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} instead.
 1. Register an account at [https://stashdb.org/register](https://stashdb.org/register){:target="_blank"}
 1. While logged in, click on your username near the top-right corner and find your API key
 1. Navigate in Stash to Settings -> Metadata Providers -> Stash-Box Endpoints, then enter your API token and the GraphQL Endpoint listed above

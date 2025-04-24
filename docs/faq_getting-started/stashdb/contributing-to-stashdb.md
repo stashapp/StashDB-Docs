@@ -105,7 +105,8 @@ If you'd like to learn more about a particular subject, further information can 
 {: .note-title }
 > Important!
 >
-> **If you see any underage content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> **If you see any underage content on StashDB, [please DM the admins immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> Please use the "Message" button at the top of the page to DM the entire admin group.
 
 > Any content including underage performers will never be allowed on StashDB. We ensure this by only allowing scenes from performers, studios, and platforms that follow age verification laws. These requirements are detailed in [Performer Eligibility]({{ site.baseurl }}/docs/performers/create/performer-eligibility/).
 
@@ -114,7 +115,8 @@ If you'd like to learn more about a particular subject, further information can 
 {: .note-title }
 > Important!
 >
-> **If you see any banned content on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> **If you see any underage content on StashDB, [please DM the admins immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> Please use the "Message" button at the top of the page to DM the entire admin group.
 
 > In rare circumstances, StashDB admins may ban specific studios based on legality and consent. Anything from a studio with a pattern of violating their performers' consent (i.e., Girls Do Porn) is not allowed. All specific bans will be listed under [Banned Studios]({{ site.baseurl }}/docs/studios/create/banned-studios/). This list may expand over time.
 
@@ -123,7 +125,8 @@ If you'd like to learn more about a particular subject, further information can 
 {: .note-title }
 > Important!
 >
-> **If you see a suspicious name on StashDB, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> **If you see any underage content on StashDB, [please DM the admins immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> Please use the "Message" button at the top of the page to DM the entire admin group.
 
 > All performer names and aliases must be used as an official adult credit in order to be eligible. This means that any legal names or given names cannot be included as an alias just because it is publically known, reported, or even revealed by performers themselves.
 > 
@@ -182,7 +185,8 @@ If you'd like to learn more about a particular subject, further information can 
 {: .note-title }
 > Important!
 >
-> **If you see any behavior that should result in the loss of edit access, [please DM an admin immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> **If you see any underage content on StashDB, [please DM the admins immediately](https://discourse.stashapp.cc/g/stashdb_admins){:target="_blank"}.**
+> Please use the "Message" button at the top of the page to DM the entire admin group.
 
 At the discretion of the admins, your edit access may be revoked at any time. However, this is rare and usually comes with an official warning first.
 

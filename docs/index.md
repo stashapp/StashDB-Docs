@@ -9,7 +9,7 @@ permalink: /
 {: .no_toc }
 **Welcome to the StashDB Guidelines!**
 
-This will serve as a guide and reference document for all contributors to StashDB. It hosts both [tips]({{ site.baseurl }}/docs/faq_getting-started/) for new contributors as well as the guidelines themselves. Being familiar with both will help in getting your edits approved. If something is missing or doesn't make sense, please ask in the [StashDB category] of our [Discourse forum](https://discourse.stashapp.cc/signup){:target="_blank"}.
+This will serve as a guide and reference document for all contributors to StashDB. It hosts both [tips]({{ site.baseurl }}/docs/faq_getting-started/) for new contributors as well as the guidelines themselves. Being familiar with both will help in getting your edits approved. If something is missing or doesn't make sense, please ask in the [StashDB category](https://discourse.stashapp.cc/c/stashdb/24){:target="_blank"} of our [Discourse forum](https://discourse.stashapp.cc/signup){:target="_blank"}.
 
 This website is always a work in progress, so keep an eye out for updates. It is hosted with GitHub Pages, so please direct any suggestions for improving this website to the [StashDB-Docs repo](https://github.com/stashapp/StashDB-Docs){:target="_blank"} as a PR or Issue. Feel free to contact **@AdultSun** on Discourse or Discord with any suggestions as well.
 

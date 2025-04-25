@@ -35,17 +35,18 @@ New accounts start with READ access only. If you'd like to add or edit any data 
     - Do not forget it, you will need it if you ever need to reset your password. An admin may also ask you to provide this address if you need their help with your account.
 1. **Enter an active invite key**
     - Copy and paste this entire code into the registration form: <br> {% include invite-code.txt %} <br> It has a limited number of uses so it will be replaced periodically.
-    - Invite codes will also be pinned to the [**#stashdb-invites** channel](https://discord.com/channels/559159668438728723/935614155107471442){:target="_blank"} on [Discord](https://discord.com/invite/2TsNFKt){:target="_blank"} and in the [**StashDB - Invites** room topic](https://matrix.to/#/#stashdb-invites:unredacted.org){:target="_blank"} on [Matrix](https://matrix.to/#/#stashapp:unredacted.org){:target="_blank"}.
-    - If any of these codes have expired, please ask politely for it to be refreshed by pinging either **@AdultSun** on Discord or **@DogmaDragon** on Matrix in the appropriate channel/room. A few other elevated users can also generate invite codes if necessary.
+    - A different invite code is available in [this topic](https://discourse.stashapp.cc/t/how-to-register-on-stashdb/402){:target="_blank"} on [Discourse](https://discourse.stashapp.cc/signup){:target="_blank"}, in case the code above has expired.
+    - If any of these codes have expired, please ask politely for it to be refreshed by contacting **@AdultSun** on Discourse or Discord. A few other elevated users can also generate invite codes if necessary.
 1. **Check for an email from StashDB and click the activation link**
     - Please wait a few minutes for the email to arrive. If you still don't see it, try refreshing your inbox or checking your spam/junk folder.
     - Your activation link is only good for about 2 hours. You'll have to start over if it expires.
-    - The link will direct you to a webpage to *choose your username and password for the first time*. This is not a generic login page even though it may look like one. This has confused others before, so just keep going.
+    - The link will direct you to a webpage to *choose your username and password for the first time*. This is not a generic login page even though it may look like one at first glance. This has confused others before, so just keep going.
 1. **Choose your username**
     - Do *not* enter your email address as your username here.
     - Avoid using special characters like `#` or `/` in your username. A bug in Stash-Box may break the link to your profile page.
-    - Admins are able to change or lookup your username upon request. Contact an admin (preferably **@AdultSun** on Discord) and provide your email address in a DM to verify your account.
-    - If you plan on requesting edit access, please make sure your username in StashDB matches your display name in Discord/Matrix. See the [Contributing to StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/contributing-to-stashdb/) page for further details.
+    - If you forget your username after linking your account to Stash (see the next section of this article), you can look it up yourself by clicking the "Test Credentials" button under Settings -> Metadata Providers -> Stash-box Endpoints.
+    - Admins are able to change or lookup your username upon request. Contact an admin (preferably **@AdultSun** on Discourse or Discord) and provide your email address in a DM to verify your account.
+    - If you plan on requesting edit access, we recommend your username in StashDB matches your display name in Discourse and Discord. See the [Contributing to StashDB]({{ site.baseurl }}/docs/faq_getting-started/stashdb/contributing-to-stashdb/) page for further details.
 1. **Choose your password**
     - Must be at least 8 characters long while avoiding "common" passwords.
     - Passwords cannot be seen or reset by an admin. You will need to click the "Forgot Password" link on the login page to reset it yourself.

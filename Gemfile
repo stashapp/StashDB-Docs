@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8.1"
 gem "just-the-docs"
 gem "jekyll-include-cache"
 
